@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.ce.cit.tum.de/air/people/zhenshan-bing-drrernat/'>Technical University of Munich (TUM)</a>. # Address. Contacts. Moto. Etc.
+subtitle: Postdoc Researcher at <a href='https://www.ce.cit.tum.de/air/people/zhenshan-bing-drrernat/'>Technical University of Munich (TUM)</a> # Address. Contacts. Moto. Etc.
 
 profile:
   align: right
