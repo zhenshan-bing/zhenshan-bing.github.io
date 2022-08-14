@@ -9,8 +9,8 @@ profile:
   image: BZS.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>Chair of Robotics, Artificial Intelligence, and Real-Time Systems</p>
-    <p>Technical University of Munich</p>
+    <!-- <p>Chair of Robotics, Artificial Intelligence, and Real-Time Systems</p> -->
+    <p>Technical University of Munich (TUM)</p>
     <p>Munich, Germany</p>
 
 news: true  # includes a list of news items
