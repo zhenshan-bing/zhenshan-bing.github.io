@@ -2,7 +2,7 @@
 layout: page
 title: Neurorobotic Mouse (NeRmo)
 description: a project with a background image
-img: assets/img/12.jpg
+img: assets/img/projects/Nermo/Nermo_Render_blur.png
 importance: 1
 category: work
 ---
