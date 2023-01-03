@@ -24,7 +24,7 @@ My work covers three research areas, namely, bio-inspired robots, RL/meta-RL alg
 
 In August 2019, I joined the Human Brain Project SP10 Neurorobotics research group at TUM as a post-doc researcher. Previously, I received my Bachelor degree in Mechanical Design Manufacturing and Automation from Harbin Institute of Technology, China in 2013, and my M.Eng degree in Mechanical Engineering (State Key Laboratory of Robotics System) at the same university in 2015. I received my PhD degree in computer science from the Technical University of Munich under the supervision of Prof. Alois Knoll in June 2019. 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=1c679e&w=a&t=n&d=rvMTQFEORcQs4AVWtIVoK6ghclOws8CSKxqlBN5Map8&co=ffffff'></script>
+<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=1c679e&w=a&t=n&d=rvMTQFEORcQs4AVWtIVoK6ghclOws8CSKxqlBN5Map8&co=ffffff'></script> -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
