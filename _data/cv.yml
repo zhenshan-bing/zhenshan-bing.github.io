@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Zhenshan Bing
     - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: 25th September 190
+    # - name: Languages
+    #   value: English, German
 
 - title: Education
   type: time_table
