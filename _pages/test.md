@@ -12,3 +12,5 @@ nav_order: 4
 - Our work has been featured in an article by Mr. Matthew Sparkes in the **NewScientist**. [link](https://www.newscientist.com/article/2406168-robotic-mouse-with-flexible-spine-moves-with-greater-speed-and-agility/).
 
 - Our work has been featured in an article by Mr. Andrew Paul in the **Polular Science**. [link](https://www.popsci.com/technology/mouse-robot-backbone/).
+
+- Our work has been reported by the **Xinhua Net (新华网)**. [link](https://english.news.cn/20231207/1f4abfbd32e140e48e0c8df14dab8af0/c.html).
