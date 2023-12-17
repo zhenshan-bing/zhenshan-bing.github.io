@@ -7,6 +7,4 @@ nav: true
 nav_order: 4
 ---
 
-Our Science Robotics paper has been covered by many media.
-
-Our work has been selected as the **Scientific Picture of the Week** by . Here is the [example link](link_here).
+- Our work has been selected as the **Scientific Picture of the Week** by GEO Online. [Link](https://www.geo.de/wissen/forschung-und-technik/blick-in-die-wissenschaft--geo-bild-der-woche--33719978.html).
