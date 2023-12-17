@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-12-06 21:00:00-0200
 inline: true
 ---
 
-A simple inline announcement.
+Our recent work "Lateral flexion of a compliant spine improves motor performance in a bioinspired mouse robot" has been published on Science Robotics! 
