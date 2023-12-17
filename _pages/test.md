@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /press/
-title: press
-description: Materials for courses you taught. Replace this text with your description.
+title: Media coverage
+description: Media coverages of our work.
 nav: true
 nav_order: 4
 ---
