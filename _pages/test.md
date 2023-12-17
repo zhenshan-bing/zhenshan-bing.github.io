@@ -23,4 +23,4 @@ nav_order: 4
 
 - Our work has been reported by the **China Daily (中国日报网)**. [link](https://www.chinadaily.com.cn/a/202312/08/WS65728246a31090682a5f221a.html).
 
-- Our work has been reported by the **中国科学报**. [newspaper](/assets/pdf/202312126129579.pdf).
+<!-- - Our work has been reported by the **中国科学报**. [newspaper](/assets/pdf/202312126129579.pdf). -->
