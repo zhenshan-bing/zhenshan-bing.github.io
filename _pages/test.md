@@ -19,8 +19,20 @@ nav_order: 4
 
 - Our work has been featured in an article by Mrs. Vanesa Listek in the **3DPrint com**. [link](https://3dprint.com/305676/how-a-3d-printed-mouse-robot-named-nermo-could-change-the-game-of-robotics/).
 
+- Our work has been featured in an article by Mr. Xiaoming Zhang in the **Shanghai List**. [link](https://shanghaiist.com/researchers-develop-highly-flexible-and-agile-robotic-mouse/).
+
+- Our work has been featured in an article in the **Ground News**. [link](https://ground.news/article/meet-nermo-the-mouse-robot-with-backbone).
+
+- Our work has been featured in an article in the **Inspenet**. [link](https://inspenet.com/en/noticias/flexible-and-agile-robot-mouse-called-nermo/).
+
+- Our work has been featured in an article in the **Sundries News**. [link](https://sundries.news/german-engineers-create-a-robot-mouse-with-a-flexible-spine-photo/).
+
 - Our work has been reported by the **Xinhua Net (新华网)**. [link](https://english.news.cn/20231207/1f4abfbd32e140e48e0c8df14dab8af0/c.html).
 
 - Our work has been reported by the **China Daily (中国日报网)**. [link](https://www.chinadaily.com.cn/a/202312/08/WS65728246a31090682a5f221a.html).
 
 - Our work has been reported by the **中国科学报**. [newspaper](/assets/pdf/202312126129579.pdf).
+
+- Our work has been reported by the **机器之心**. [newspaper](https://www.jiqizhixin.com/articles/2023-12-08-4).
+
+- Our work has been reported by the **机器人大讲堂**. [newspaper](https://www.leaderobot.com/news/3036).
