@@ -1,8 +1,9 @@
 ---
 layout: test
-permalink: /test/
-title: test
+permalink: /press/
+title: press
 nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
 ---
+
+Our Science Robotics paper has been covered by many media
