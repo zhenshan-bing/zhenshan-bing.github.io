@@ -1,5 +1,5 @@
 ---
-layout: test
+layout: press
 permalink: /press/
 title: press
 description: Materials for courses you taught. Replace this text with your description.
