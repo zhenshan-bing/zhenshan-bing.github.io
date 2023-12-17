@@ -15,9 +15,9 @@ nav_order: 4
 
 - Our work has been featured in an article by Mr. Dale Arasa in the **Inquirer**. [link](https://technology.inquirer.net/130369/robot-spine).
 
-<!-- - Our work has been featured in an article by Mr. Leokadia Głogulska in the **TS2 Space**. [link](https://ts2.space/en/meet-nermo-the-spine-tingling-leap-in-robotic-agility/#gsc.tab=0).
+- Our work has been featured in an article by Mr. Leokadia Głogulska in the **TS2 Space**. [link](https://ts2.space/en/meet-nermo-the-spine-tingling-leap-in-robotic-agility/#gsc.tab=0).
 
-- Our work has been featured in an article by Mrs. Vanesa Listek in the **3DPrint.com**. [link](https://3dprint.com/305676/how-a-3d-printed-mouse-robot-named-nermo-could-change-the-game-of-robotics/). -->
+- Our work has been featured in an article by Mrs. Vanesa Listek in the **3DPrint com**. [link](https://3dprint.com/305676/how-a-3d-printed-mouse-robot-named-nermo-could-change-the-game-of-robotics/).
 
 - Our work has been reported by the **Xinhua Net (新华网)**. [link](https://english.news.cn/20231207/1f4abfbd32e140e48e0c8df14dab8af0/c.html).
 
