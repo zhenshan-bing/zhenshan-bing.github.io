@@ -20,7 +20,8 @@ body {
 
 
 .section-divider {
-    border: 0;
-    border-top: 1px solid #ddd; /* 设置横线颜色和粗细 */
-    margin: 20px 0;            /* 设置上下间距 */
+  border: 0 !important;
+  border-top: 1px solid #ddd !important;
+  margin: 20px 0 !important;
+  width: 100% !important;
 }
