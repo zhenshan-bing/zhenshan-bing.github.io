@@ -15,5 +15,5 @@ $max-content-width: {{ site.max_width }};
 ;
 
 body {
-  background-color: #F7F7F7; /* 替换为你想要的颜色 */
+  background-color: #F7F7F7 !important; /* 替换为你想要的颜色 */
 }
