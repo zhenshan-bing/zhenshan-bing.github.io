@@ -17,3 +17,10 @@ $max-content-width: {{ site.max_width }};
 body {
   background-color: #F7F7F7 !important; /* 替换为你想要的颜色 */
 }
+
+
+.section-divider {
+    border: 0;
+    border-top: 1px solid #ddd; /* 设置横线颜色和粗细 */
+    margin: 20px 0;            /* 设置上下间距 */
+}
