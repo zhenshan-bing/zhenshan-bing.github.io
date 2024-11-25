@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-<!-- <div class="profile-section">
+<div class="profile-section">
   <img src="assets/img/BZS.jpg" alt="Profile Picture">
   <div class="profile-text">
     <h1>Prof. Zhenshan Bing</h1>
@@ -27,7 +27,7 @@ social: true  # includes social icons at the bottom of the page
     <p>Chair of Robotics, Artificial Intelligence, and Real-Time Systems</p>
     <p>Munich, Germany</p>
   </div>
-</div> -->
+</div>
 
 
 My main research is generally about Robotics & AI. 
