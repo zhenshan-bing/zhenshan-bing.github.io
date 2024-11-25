@@ -105,12 +105,12 @@ $max-content-width: {{ site.max_width }};
   margin-bottom: 40px; /* 块间距 */
 }
 
-.professional-service h2 {
-  font-size: 1.5rem; /* 标题大小一致 */
-  font-weight: bold; /* 标题加粗 */
-  margin-bottom: 16px; /* 标题与内容的间距 */
-  color: #000;
-}
+// .professional-service h2 {
+//   font-size: 1.5rem; /* 标题大小一致 */
+//   font-weight: bold; /* 标题加粗 */
+//   margin-bottom: 16px; /* 标题与内容的间距 */
+//   color: #000;
+// }
 
 .professional-service ul {
   list-style: none; /* 移除列表样式 */
