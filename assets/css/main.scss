@@ -50,15 +50,6 @@ $max-content-width: {{ site.max_width }};
   scroll-behavior: smooth; /* 平滑滚动效果 */
 }
 
-// .scroll-item {
-//   flex: 0 0 auto; /* 保持子元素的宽度 */
-//   height: : 300px; /* 每个卡片的高度 */
-//   border: 1px solid #ddd;
-//   border-radius: 1px;
-//   padding: 8px;
-//   text-align: center;
-// }
-
 .scroll-item {
   height: 300px; /* 固定高度 */
   display: flex; /* 用于居中对齐 */
