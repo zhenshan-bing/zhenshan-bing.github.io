@@ -43,7 +43,7 @@ $max-content-width: {{ site.max_width }};
 
 
 .scroll-container {
-  display: flex; /* 使用 flexbox 布局 */
+  display: flex; /* 使用 Flexbox 布局 */
   overflow-x: scroll; /* 启用横向滚动 */
   gap: 16px; /* 子元素之间的间距 */
   padding: 16px; /* 容器的内边距 */
@@ -52,11 +52,11 @@ $max-content-width: {{ site.max_width }};
 
 .scroll-item {
   flex: 0 0 auto; /* 子元素宽度固定 */
-  height: 250px; /* 固定高度 */
-  display: flex; /* 用于居中对齐 */
+  height: auto; /* 根据内容动态调整高度 */
+  display: flex; /* 启用 Flexbox 布局 */
   flex-direction: column; /* 子元素垂直排列 */
-  justify-content: center; /* 水平居中 */
-  align-items: center; /* 垂直居中 */
+  justify-content: center; /* 垂直方向居中 */
+  align-items: center; /* 水平方向居中 */
   border: 1px solid #ddd;
   border-radius: 1px;
   padding: 8px;
@@ -65,9 +65,12 @@ $max-content-width: {{ site.max_width }};
 }
 
 .scroll-item img {
-  height: 90%; /* 图片高度与父容器一致 */
-  width: auto; /* 宽度根据图片比例调整 */
-  object-fit: contain; /* 保证图片内容完整，不被裁剪 */
+  height: auto; /* 图片高度自动调整 */
+  max-height: 90%; /* 限制图片最大高度 */
+  width: 100%; /* 图片宽度占满父容器 */
+  object-fit: contain; /* 保持图片比例 */
+  margin-bottom: 8px; /* 图片和文字之间的间距 */
 }
+
 
 
