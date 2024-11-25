@@ -59,11 +59,11 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
   </div> -->
   <div class="scroll-item">
     <img src="assets/img/SR.png" alt="Image 2">
-    <p>Headline of the *Science* website</p>
+    <p>Headline of the <em>Science</em> website</p>
   </div>
   <div class="scroll-item">
     <img src="assets/img/SR.png" alt="Image 2">
-    <p>Headline of the *Science* website</p>
+    <p>Headline of the <em>Science</em> website</p>
   </div>
   <div class="scroll-item">
     <img src="assets/img/track_snake.gif" alt="Image 3">
