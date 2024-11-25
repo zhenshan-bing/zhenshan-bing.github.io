@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 <div class="profile-section">
   <img src="assets/img/BZS.jpg" alt="Profile Picture">
   <div class="profile-text">
-    <h1>Prof. Zhenshan Bing</h1>
+    <h1>Dr. Zhenshan Bing</h1>
     <p>Postdoc Researcher at <a href="https://www.ce.cit.tum.de/air/people/zhenshan-bing-drrernat/">Technical University of Munich (TUM)</a></p>
     <p>Chair of Robotics, Artificial Intelligence, and Real-Time Systems</p>
     <p>Munich, Germany</p>
