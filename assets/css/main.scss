@@ -99,4 +99,34 @@ $max-content-width: {{ site.max_width }};
 }
 
 
+.professional-service {
+  margin: 40px 0; /* 块上下的外边距 */
+  padding: 20px; /* 块的内边距 */
+}
+
+.professional-service h2 {
+  font-size: 24px; /* 标题大小 */
+  font-weight: bold; /* 标题加粗 */
+  margin-bottom: 16px; /* 标题与内容的间距 */
+  text-transform: uppercase; /* 全大写 */
+}
+
+.professional-service ul {
+  list-style-type: disc; /* 列表项的样式 */
+  margin-left: 20px; /* 缩进 */
+  line-height: 1.8; /* 行距 */
+}
+
+.professional-service li {
+  margin-bottom: 8px; /* 列表项之间的间距 */
+}
+
+.professional-service a {
+  color: #2967ac; /* 超链接颜色 */
+  text-decoration: none; /* 去掉下划线 */
+}
+
+.professional-service a:hover {
+  text-decoration: underline; /* 悬停时显示下划线 */
+}
 

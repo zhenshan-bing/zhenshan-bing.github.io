@@ -52,6 +52,29 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 <div class="custom-divider"></div>
 
 
+<section class="professional-service">
+  <h2>PROFESSIONAL SERVICE</h2>
+  <ul>
+    <li>Associate Editor: <a href="https://www.example.com">Image and Vision Computing</a></li>
+    <li>Area chair (AC):
+      <ul>
+        <li>Conferences: CVPR 2022, WACV 2022</li>
+        <li>Seminars: <a href="https://www.example.com">VALSE</a></li>
+      </ul>
+    </li>
+    <li>Program committee/reviewer:
+      <ul>
+        <li>Conferences: CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, SIGGRAPH, RSS, IROS, ICRA</li>
+        <li>Journals: IEEE TPAMI, IEEE RAL</li>
+      </ul>
+    </li>
+  </ul>
+</section>
+
+
+<div class="custom-divider"></div>
+
+
 <div class="scroll-container">
 <!--   <div class="scroll-item">
     <img src="assets/img/BZS.jpg" alt="Image 1">
