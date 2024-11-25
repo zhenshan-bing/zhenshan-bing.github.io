@@ -53,18 +53,18 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 
 <div class="scroll-container">
-  <div class="scroll-item">
+<!--   <div class="scroll-item">
     <img src="assets/img/BZS.jpg" alt="Image 1">
     <p>Description for item 1</p>
-  </div>
+  </div> -->
   <div class="scroll-item">
     <img src="assets/img/SR.png" alt="Image 2">
     <p>Headline of the *Science* website</p>
   </div>
-  <div class="scroll-item">
+<!--   <div class="scroll-item">
     <img src="assets/img/BZS.jpg" alt="Image 3">
     <p>Description for item 3</p>
-  </div>
+  </div> -->
 </div>
 
 
