@@ -28,7 +28,7 @@ $max-content-width: {{ site.max_width }};
 
 .custom-divider {
   content: '';
-  width: 200%; /* 横线占满整个父元素宽度 */
+  width: 100%; /* 横线占满整个父元素宽度 */
   height: 1px; /* 横线的高度 */
   background: linear-gradient(
     to right,
