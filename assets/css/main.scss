@@ -52,7 +52,7 @@ $max-content-width: {{ site.max_width }};
 
 .scroll-item {
   flex: 0 0 auto; /* 子元素宽度固定 */
-  height: auto; /* 根据内容动态调整高度 */
+  height: 250px; /* 根据内容动态调整高度 */
   display: flex; /* 启用 Flexbox 布局 */
   flex-direction: column; /* 子元素垂直排列 */
   justify-content: center; /* 垂直方向居中 */
@@ -65,9 +65,8 @@ $max-content-width: {{ site.max_width }};
 }
 
 .scroll-item img {
-  height: auto; /* 图片高度自动调整 */
-  max-height: 50%; /* 限制图片最大高度 */
-  width: 100%; /* 图片宽度占满父容器 */
+  height: 90%; /* 图片高度与父容器一致 */
+  width: auto; /* 宽度根据图片比例调整 */
   object-fit: contain; /* 保持图片比例 */
   margin-bottom: 8px; /* 图片和文字之间的间距 */
 }
