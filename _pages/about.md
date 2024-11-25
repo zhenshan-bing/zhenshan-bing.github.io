@@ -87,7 +87,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
       <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/tnnls-editor-and-associate-editors">IEEE Transactions on Neural Networks and Learning Systems</a>
     </li>
     <li>
-      <span class="date">2021 -now</span> Associate Editor: 
+      <span class="date">2021 - now</span> Associate Editor: 
       <a href="https://www.frontiersin.org/journals/neurorobotics/editors">Frontiers in Neurorobotics</a>
     </li>
     <li>
