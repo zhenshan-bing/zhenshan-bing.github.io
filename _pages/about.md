@@ -5,7 +5,7 @@ permalink: /
 subtitle: Postdoc Researcher at <a href='https://www.ce.cit.tum.de/air/people/zhenshan-bing-drrernat/'>Technical University of Munich (TUM)</a> # Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
+  align: left
   image: BZS.jpg
   image_cicular: false # crops the image to make it circular
   address: >
