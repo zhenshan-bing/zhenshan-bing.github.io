@@ -31,13 +31,23 @@ body.sticky-bottom-footer {
   img {
     width: 70%; /* 保持图片比例 */
   }
-  <div class="profile-text">
-    <h1>Prof. Zhenshan Bing</h1>
-    <p>Postdoc Researcher at <a href="https://www.ce.cit.tum.de/air/people/zhenshan-bing-drrernat/">Technical University of Munich (TUM)</a></p>
-    <p>Chair of Robotics, Artificial Intelligence, and Real-Time Systems</p>
-    <p>Munich, Germany</p>
-  </div>
 }
+
+.profile-text {
+  max-width: 600px; /* 限制文字部分宽度 */
+}
+
+.profile-text h1 {
+  font-size: 24px; /* 标题大小 */
+  font-weight: bold; /* 标题加粗 */
+  margin: 0 0 10px 0; /* 调整标题与文字的间距 */
+}
+
+.profile-text p {
+  font-size: 16px; /* 正文字体大小 */
+  margin: 5px 0;
+}
+
 
 // TODO: redefine content layout.
 
