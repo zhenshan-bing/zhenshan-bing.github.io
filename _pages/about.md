@@ -117,7 +117,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
   <ul>
     <li>
       <span class="date">2024</span> Fellowship: 
-      <a href="https://eurotech-universities.eu/funding/eurotech-visiting-researcher-programme/">EuroTech Visiting Researcher Programme</a>, <a href="/assets/pdf/EuroTech_VRP 2024_Bing.PDF">PDF</a>
+      <a href="https://eurotech-universities.eu/funding/eurotech-visiting-researcher-programme/">EuroTech Visiting Researcher Programme</a>, <a href="/assets/pdf/EuroTech_VRP_2024_Bing.PDF">PDF</a>
     </li>
   </ul>
 </section>
