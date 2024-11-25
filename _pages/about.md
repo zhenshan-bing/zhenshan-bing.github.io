@@ -110,3 +110,18 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 
 <div class="custom-divider"></div>
+
+
+<section class="professional-service">
+  <h2 style="font-weight: bold;">Awards</h2>
+  <ul>
+    <li>
+      <span class="date">2024</span> Fellowship: 
+      <a href="https://eurotech-universities.eu/funding/eurotech-visiting-researcher-programme/">Fellow of EuroTech Visiting Researcher Programme</a>
+    </li>
+  </ul>
+</section>
+
+
+
+<div class="custom-divider"></div>
