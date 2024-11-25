@@ -87,12 +87,21 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
       <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/tnnls-editor-and-associate-editors">IEEE Transactions on Neural Networks and Learning Systems</a>
     </li>
     <li>
+      <li>
+      <span class="date">2022 - now</span> Associate Editor: 
+      <a href="https://spj.science.org/page/cbsystems/editors/young-editors">Cyborg and Bionic Systems</a>
+    </li>
+    <li>
       <span class="date">2021 - now</span> Associate Editor: 
       <a href="https://www.frontiersin.org/journals/neurorobotics/editors">Frontiers in Neurorobotics</a>
     </li>
     <li>
       <span class="date">2024</span> Associate Editor: 
       <a href="https://2025.ieee-icra.org/">IEEE International Conference on Robotics and Automation (ICRA) 2025</a>
+    </li>
+    <li>
+      <span class="date">2023</span> Workshop Organizer: 
+      <a href="https://sites.google.com/view/robot-ai-future-factory/home">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023, Workshop: Robotics & AI in Future Factory</a>
     </li>
   </ul>
 </section>
