@@ -61,14 +61,14 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
     <img src="assets/img/SR.png" alt="Image 2">
     <p>Headline of the <a href="https://www.science.org/doi/10.1126/scirobotics.adg7165"><strong><em>Science</em></strong></a> website</p>
   </div>
-<!--   <div class="scroll-item">
+  <div class="scroll-item">
     <img src="assets/img/SR.png" alt="Image 2">
     <p>Headline of the <em>Science</em> website</p>
   </div>
   <div class="scroll-item">
-    <img src="assets/img/track_snake.gif" alt="Image 3">
+    <img src="assets/img/snake_arm.jpg" alt="Image 3">
     <p>Description for item 3</p>
-  </div> -->
+  </div>
 </div>
 
 
