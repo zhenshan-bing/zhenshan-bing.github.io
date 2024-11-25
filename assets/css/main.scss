@@ -30,6 +30,12 @@ $max-content-width: {{ site.max_width }};
   content: '';
   width: 100%; /* 横线占满整个父元素宽度 */
   height: 1px; /* 横线的高度 */
-  background: linear-gradient(to right, transparent, #d8d8d8 30%, #d8d8d8 70%, transparent); /* 渐变效果 */
-  margin: 30px auto; /* 与内容的上下间距 */
+  background: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0) 10%, /* 左侧透明占 10% */
+    #d8d8d8 30%,          /* 渐变到中间部分 */
+    #d8d8d8 70%,          /* 中间部分 */
+    rgba(0, 0, 0, 0) 90%  /* 右侧透明占 10% */
+  );
+  margin: 30px auto; /* 居中对齐 */
 }
