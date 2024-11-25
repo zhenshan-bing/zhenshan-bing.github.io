@@ -43,14 +43,15 @@ $max-content-width: {{ site.max_width }};
 
 
 .scroll-container {
-  display: flex; /* 使用 Flexbox 布局 */
+  display: flex; /* 使用 flexbox 布局 */
   overflow-x: scroll; /* 启用横向滚动 */
-  gap: 16px; /* 每个子元素之间的间距 */
+  gap: 16px; /* 子元素之间的间距 */
   padding: 16px; /* 容器的内边距 */
   scroll-behavior: smooth; /* 平滑滚动效果 */
 }
 
 .scroll-item {
+  flex: 0 0 auto; /* 子元素宽度固定 */
   height: 250px; /* 固定高度 */
   display: flex; /* 用于居中对齐 */
   justify-content: center; /* 水平居中 */
@@ -67,4 +68,5 @@ $max-content-width: {{ site.max_width }};
   width: auto; /* 宽度根据图片比例调整 */
   object-fit: contain; /* 保证图片内容完整，不被裁剪 */
 }
+
 
