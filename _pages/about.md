@@ -128,7 +128,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
       <a href="http://www.ieee-arm.org/icarm2022/">2022 IEEE International Conference on Advanced Robotics & Mechatronics (ARM)</a>
     </li>
     <li>
-      <span class="date">2018</span> Best paper finalist: 
+      <span class="date">2018</span> Best paper award: 
       <a href="http://hfr2018.org/">2018 International Workshop on Human Friendly Robotics (HFR)</a>
     </li>
   </ul>
