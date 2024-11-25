@@ -25,3 +25,11 @@ $max-content-width: {{ site.max_width }};
 //   margin: 20px 0 !important;
 //   width: 100% !important;
 // }
+
+.custom-divider {
+  content: '';
+  width: 100%; /* 横线占满整个父元素宽度 */
+  height: 1px; /* 横线的高度 */
+  background: linear-gradient(to right, transparent, #d8d8d8, transparent); /* 渐变效果 */
+  margin: 20px 0; /* 与内容的上下间距 */
+}
