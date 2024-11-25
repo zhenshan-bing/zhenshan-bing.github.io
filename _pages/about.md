@@ -58,7 +58,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
     <p>Description for item 1</p>
   </div>
   <div class="scroll-item">
-    <img src="assets/img/SR.PNG" alt="Image 2">
+    <img src="assets/img/SR.png" alt="Image 2">
     <p>Headline of the *Science* website</p>
   </div>
   <div class="scroll-item">
