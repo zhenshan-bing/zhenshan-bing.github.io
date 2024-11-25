@@ -54,6 +54,7 @@ $max-content-width: {{ site.max_width }};
   flex: 0 0 auto; /* 子元素宽度固定 */
   height: 250px; /* 固定高度 */
   display: flex; /* 用于居中对齐 */
+  flex-direction: column; /* 子元素垂直排列 */
   justify-content: center; /* 水平居中 */
   align-items: center; /* 垂直居中 */
   border: 1px solid #ddd;
