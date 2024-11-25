@@ -101,7 +101,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
     </li>
     <li>
       <span class="date">2023</span> Workshop Organizer: 
-      <a href="https://sites.google.com/view/robot-ai-future-factory/home">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023, Workshop: Robotics & AI in Future Factory</a>
+      <a href="https://sites.google.com/view/robot-ai-future-factory/home/">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023, Workshop: Robotics & AI in Future Factory</a>
     </li>
   </ul>
 </section>
