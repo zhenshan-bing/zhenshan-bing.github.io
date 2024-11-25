@@ -48,6 +48,7 @@ $max-content-width: {{ site.max_width }};
   gap: 16px; /* 子元素之间的间距 */
   padding: 16px; /* 容器的内边距 */
   scroll-behavior: smooth; /* 平滑滚动效果 */
+  border: none; /* 移除边框 */
 }
 
 .scroll-item {
