@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Zhenshan Bing's publications are listed in this webpage.
 years: [2023, 2022, 2021, 2020, 2019, 2018, 2017]
 nav: true
