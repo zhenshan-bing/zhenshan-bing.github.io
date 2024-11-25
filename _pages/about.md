@@ -4,14 +4,7 @@ title: About
 permalink: /
 subtitle: Postdoc Researcher at <a href='https://www.ce.cit.tum.de/air/people/zhenshan-bing-drrernat/'>Technical University of Munich (TUM)</a> # Address. Contacts. Moto. Etc.
 
-profile:
-  align: left
-  image: BZS.jpg
-  image_cicular: false # crops the image to make it circular
-  address: >
-    <!-- <p>Chair of Robotics, Artificial Intelligence, and Real-Time Systems</p> -->
-    <!-- <p>Technical University of Munich (TUM)</p> -->
-    <p>Munich, Germany</p>
+
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
