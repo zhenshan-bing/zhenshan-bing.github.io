@@ -61,16 +61,19 @@ $max-content-width: {{ site.max_width }};
 
 .scroll-item {
   height: 300px; /* 固定高度 */
-  aspect-ratio: 16 / 9; /* 设置宽高比例，例如16:9 */
+  display: flex; /* 用于居中对齐 */
+  justify-content: center; /* 水平居中 */
+  align-items: center; /* 垂直居中 */
   border: 1px solid #ddd;
   border-radius: 1px;
   padding: 8px;
+  overflow: hidden; /* 防止内容超出容器 */
   text-align: center;
 }
 
-
 .scroll-item img {
-  width: 100%; /* 图片占满卡片宽度 */
-  height: auto; /* 保持图片比例 */
-  border-radius: 1px;
+  height: 100%; /* 图片高度与父容器一致 */
+  width: auto; /* 宽度根据图片比例调整 */
+  object-fit: contain; /* 保证图片内容完整，不被裁剪 */
 }
+
