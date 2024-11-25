@@ -52,7 +52,7 @@ $max-content-width: {{ site.max_width }};
 
 .scroll-item {
   flex: 0 0 auto; /* 保持子元素的宽度 */
-  width: 500px; /* 每个卡片的宽度 */
+  height: : 300px; /* 每个卡片的高度 */
   border: 1px solid #ddd;
   border-radius: 0.1px;
   padding: 8px;
