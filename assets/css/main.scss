@@ -69,7 +69,7 @@ $max-content-width: {{ site.max_width }};
   height: 90%; /* 图片高度与父容器一致 */
   width: auto; /* 宽度根据图片比例调整 */
   object-fit: contain; /* 保持图片比例 */
-  border-radius: 1px;
+  border-radius: 2px;
   margin-bottom: 8px; /* 图片和文字之间的间距 */
 }
 
