@@ -101,34 +101,34 @@ $max-content-width: {{ site.max_width }};
 
 
 
-.professional-service, .news {
+.professional-service {
   margin-bottom: 40px; /* 块间距 */
 }
 
-.professional-service h2, .news h2 {
+.professional-service h2 {
   font-size: 20px; /* 标题大小一致 */
   font-weight: bold; /* 标题加粗 */
   margin-bottom: 16px; /* 标题与内容的间距 */
   color: #000;
 }
 
-.professional-service ul, .news ul {
+.professional-service ul {
   list-style: none; /* 移除列表样式 */
   padding: 0;
   margin: 0;
 }
 
-.professional-service li, .news li {
+.professional-service li {
   margin-bottom: 8px; /* 列表项间距 */
   font-size: 1rem; /* 列表项字体大小一致 */
 }
 
-.professional-service li a, .news li a {
+.professional-service li a {
   color: #2967ac;
   text-decoration: none;
 }
 
-.professional-service li a:hover, .news li a:hover {
+.professional-service li a:hover {
   text-decoration: underline;
 }
 
