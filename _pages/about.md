@@ -11,6 +11,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 
 <div class="profile-section">
   <img src="assets/img/BZS.jpg" alt="Profile Picture">
@@ -20,9 +21,9 @@ social: true  # includes social icons at the bottom of the page
     <p>Chair of Robotics, Artificial Intelligence, and Real-Time Systems</p>
     <p>Munich, Germany</p>
     <div class="social-icons">
-      <a href="https://google.com" target="_blank"><i class="icon-google"></i></a>
-      <a href="mailto:youremail@example.com"><i class="icon-mail"></i></a>
-      <a href="https://twitter.com" target="_blank"><i class="icon-twitter"></i></a>
+      <a href="https://google.com" target="_blank"><i class="fab fa-google"></i></a>
+      <a href="mailto:youremail@example.com"><i class="fas fa-envelope"></i></a>
+      <a href="https://twitter.com" target="_blank"><i class="fab fa-twitter"></i></a>
     </div>
   </div>
 </div>
