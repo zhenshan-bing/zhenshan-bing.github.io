@@ -52,9 +52,9 @@ $max-content-width: {{ site.max_width }};
 
 .scroll-item {
   flex: 0 0 auto; /* 保持子元素的宽度 */
-  width: 300px; /* 每个卡片的宽度 */
+  width: 500px; /* 每个卡片的宽度 */
   border: 1px solid #ddd;
-  border-radius: 8px;
+  border-radius: 0.1px;
   padding: 8px;
   text-align: center;
 }
@@ -62,5 +62,5 @@ $max-content-width: {{ site.max_width }};
 .scroll-item img {
   width: 100%; /* 图片占满卡片宽度 */
   height: auto; /* 保持图片比例 */
-  border-radius: 8px;
+  border-radius: 0.1px;
 }
