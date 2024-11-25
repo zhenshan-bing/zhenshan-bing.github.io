@@ -121,7 +121,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
     </li>
     <li>
       <span class="date">2024</span> Best paper finalist: 
-      <a href="http://robio2023.org/">2023 IEEE International Conference on Robotics and Biomimetics (ROBIO)</a>
+      <a href="http://robio2023.org/Awards.html">2023 IEEE International Conference on Robotics and Biomimetics (ROBIO)</a>
     </li>
     <li>
       <span class="date">2024</span> Best paper finalist: 
