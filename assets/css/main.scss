@@ -120,7 +120,7 @@ $max-content-width: {{ site.max_width }};
 
 .professional-service li, .news li {
   margin-bottom: 8px; /* 列表项间距 */
-  font-size: 16px; /* 列表项字体大小一致 */
+  font-size: 1rem; /* 列表项字体大小一致 */
 }
 
 .professional-service li a, .news li a {
