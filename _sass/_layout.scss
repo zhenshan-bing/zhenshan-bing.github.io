@@ -37,6 +37,7 @@ body.sticky-bottom-footer {
   display: flex; /* 实现图片与文字的并排布局 */
   align-items: left; /* 垂直居中对齐 */
   margin: 60px 0;
+  gap: 30px; /* 设置图片与文字之间的间距 */
 }
 
 .profile-section img {
