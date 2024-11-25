@@ -83,14 +83,12 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
   <h2 style="font-weight: bold;">Professional Service</h2>
   <ul>
     <li>
+      <span class="date">2022</span> Associate Editor: 
+      <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/tnnls-editor-and-associate-editors">IEEE Transactions on Neural Networks and Learning Systems</a>
+    </li>
+    <li>
       <span class="date">2024</span> Associate Editor: 
-      <a href="https://www.example.com">Image and Vision Computing</a>
-    </li>
-    <li>
-      <span class="date">2022</span> Area chair (AC): Conferences: CVPR 2022, WACV 2022
-    </li>
-    <li>
-      <span class="date">2020</span> Program committee/reviewer: Conferences: CVPR, ICCV, etc.
+      <a href="https://2025.ieee-icra.org/">IEEE International Conference on Robotics and Automation (ICRA) 2025</a>
     </li>
   </ul>
 </section>
