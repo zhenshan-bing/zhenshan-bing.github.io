@@ -51,7 +51,7 @@ $max-content-width: {{ site.max_width }};
 }
 
 .scroll-item {
-  height: 300px; /* 固定高度 */
+  height: 250px; /* 固定高度 */
   display: flex; /* 用于居中对齐 */
   justify-content: center; /* 水平居中 */
   align-items: center; /* 垂直居中 */
@@ -63,7 +63,7 @@ $max-content-width: {{ site.max_width }};
 }
 
 .scroll-item img {
-  height: 100%; /* 图片高度与父容器一致 */
+  height: 90%; /* 图片高度与父容器一致 */
   width: auto; /* 宽度根据图片比例调整 */
   object-fit: contain; /* 保证图片内容完整，不被裁剪 */
 }
