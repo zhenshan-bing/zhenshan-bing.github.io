@@ -99,34 +99,41 @@ $max-content-width: {{ site.max_width }};
 }
 
 
-.professional-service {
-  margin: 40px 0; /* 块上下的外边距 */
-  padding: 20px; /* 块的内边距 */
+.professional-service, .news {
+  margin-bottom: 40px; /* 块间距 */
 }
 
-.professional-service h2 {
-  font-size: 24px; /* 标题大小 */
+.professional-service h2, .news h2 {
+  font-size: 20px; /* 标题大小一致 */
   font-weight: bold; /* 标题加粗 */
   margin-bottom: 16px; /* 标题与内容的间距 */
-  text-transform: uppercase; /* 全大写 */
+  color: #000;
 }
 
-.professional-service ul {
-  list-style-type: disc; /* 列表项的样式 */
-  margin-left: 20px; /* 缩进 */
-  line-height: 1.8; /* 行距 */
+.professional-service ul, .news ul {
+  list-style: none; /* 移除列表样式 */
+  padding: 0;
+  margin: 0;
 }
 
-.professional-service li {
-  margin-bottom: 8px; /* 列表项之间的间距 */
+.professional-service li, .news li {
+  margin-bottom: 8px; /* 列表项间距 */
+  font-size: 14px; /* 列表项字体大小一致 */
 }
 
-.professional-service a {
-  color: #2967ac; /* 超链接颜色 */
-  text-decoration: none; /* 去掉下划线 */
+.professional-service li a, .news li a {
+  color: #2967ac;
+  text-decoration: none;
 }
 
-.professional-service a:hover {
-  text-decoration: underline; /* 悬停时显示下划线 */
+.professional-service li a:hover, .news li a:hover {
+  text-decoration: underline;
+}
+
+.date {
+  font-weight: bold;
+  font-size: 12px;
+  margin-right: 8px;
+  color: #383838;
 }
 

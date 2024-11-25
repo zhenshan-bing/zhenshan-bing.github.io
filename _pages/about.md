@@ -80,20 +80,17 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 
 <section class="professional-service">
-  <h2>PROFESSIONAL SERVICE</h2>
+  <h2>Professional Service</h2>
   <ul>
-    <li>Associate Editor: <a href="https://www.example.com">Image and Vision Computing</a></li>
-    <li>Area chair (AC):
-      <ul>
-        <li>Conferences: CVPR 2022, WACV 2022</li>
-        <li>Seminars: <a href="https://www.example.com">VALSE</a></li>
-      </ul>
+    <li>
+      <span class="date">2024</span> Associate Editor: 
+      <a href="https://www.example.com">Image and Vision Computing</a>
     </li>
-    <li>Program committee/reviewer:
-      <ul>
-        <li>Conferences: CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, SIGGRAPH, RSS, IROS, ICRA</li>
-        <li>Journals: IEEE TPAMI, IEEE RAL</li>
-      </ul>
+    <li>
+      <span class="date">2022</span> Area chair (AC): Conferences: CVPR 2022, WACV 2022
+    </li>
+    <li>
+      <span class="date">2020</span> Program committee/reviewer: Conferences: CVPR, ICCV, etc.
     </li>
   </ul>
 </section>
