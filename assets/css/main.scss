@@ -70,7 +70,7 @@ $max-content-width: {{ site.max_width }};
   width: auto; /* 宽度根据图片比例调整 */
   object-fit: contain; /* 保持图片比例 */
   border-radius: 2px;
-  margin-bottom: 8px; /* 图片和文字之间的间距 */
+  margin-bottom: 2px; /* 图片和文字之间的间距 */
 }
 
 
