@@ -80,7 +80,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 
 <section class="professional-service">
-  <h1>Professional Service</h1>
+  <h2 style="font-weight: bold;">Professional Service</h2>
   <ul>
     <li>
       <span class="date">2024</span> Associate Editor: 
