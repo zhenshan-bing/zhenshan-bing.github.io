@@ -35,9 +35,9 @@ social: true  # includes social icons at the bottom of the page
 My main research is generally about Robotics & AI. 
 My work covers three research areas, namely, bio-inspired robots, RL/meta-RL algorithms for robotics, and brain-inspired navigation algorithms.
 
-In August 2019, I joined the Human Brain Project SP10 Neurorobotics research group at TUM as a post-doc researcher. Previously, I received my Bachelor degree in Mechanical Design Manufacturing and Automation from Harbin Institute of Technology, China in 2013, and my M.Eng degree in Mechanical Engineering (State Key Laboratory of Robotics System) at the same university in 2015. I received my PhD degree in computer science from the Technical University of Munich under the supervision of Prof. Alois Knoll in June 2019. 
+In August 2019, I joined the <a href="https://www.humanbrainproject.eu/en/">Human Brain Project</a> SP10 Neurorobotics research group at TUM as a post-doc researcher. Previously, I received my Bachelor degree in Mechanical Design Manufacturing and Automation from Harbin Institute of Technology, China in 2013, and my M.Eng degree in Mechanical Engineering (State Key Laboratory of Robotics System) at the same university in 2015. I received my PhD degree in computer science from the Technical University of Munich under the supervision of <a href="https://www.ce.cit.tum.de/air/people/prof-dr-ing-habil-alois-knoll/">Prof. Alois Knoll</a> in June 2019. 
 
-In 2024, I was a visiting scholar at the <a href="https://www.epfl.ch/labs/biorob/">Biorobotics Laboratory (BioRob)</a>  at École Polytechnique Fédérale de Lausanne (EPFL), under the supervision of <a href="https://www.epfl.ch/labs/biorob/people/ijspeert/">Prof. Auke Ijspeert</a>.
+In 2024, I was a visiting scholar at the <a href="https://www.epfl.ch/labs/biorob/">Biorobotics Laboratory (BioRob)</a> at École Polytechnique Fédérale de Lausanne (EPFL), under the supervision of <a href="https://www.epfl.ch/labs/biorob/people/ijspeert/">Prof. Auke Ijspeert</a>.
 
 I have authored approximately 100 peer-reviewed publications in esteemed journals and conference proceedings within the field of robotics and AI, notably including publications in **Science Robotics**, **Nature Machine Intelligence** and **IEEE Transactions on Pattern Analysis and Machine Intelligence**.
 
