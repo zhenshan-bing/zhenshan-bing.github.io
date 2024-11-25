@@ -19,6 +19,11 @@ social: true  # includes social icons at the bottom of the page
     <p>Postdoc Researcher at <a href="https://www.ce.cit.tum.de/air/people/zhenshan-bing-drrernat/">Technical University of Munich (TUM)</a></p>
     <p>Chair of Robotics, Artificial Intelligence, and Real-Time Systems</p>
     <p>Munich, Germany</p>
+    <div class="social-icons">
+      <a href="https://google.com" target="_blank"><i class="icon-google"></i></a>
+      <a href="mailto:youremail@example.com"><i class="icon-mail"></i></a>
+      <a href="https://twitter.com" target="_blank"><i class="icon-twitter"></i></a>
+    </div>
   </div>
 </div>
 
