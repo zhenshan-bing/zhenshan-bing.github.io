@@ -69,6 +69,11 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
   <div class="scroll-item">
     <img src="assets/img/snake_arm.jpg" alt="Image 3">
     <p>Snake-like robotic arm.</p>
+    </div>
+    <div class="scroll-item">
+    <img src="assets/img/snake_track.jpg" alt="Image 2">
+    <p>Snake-track robot.</p>
+  </div>
   </div>
     <div class="scroll-item">
     <img src="assets/img/snake_robot.jpg" alt="Image 2">
