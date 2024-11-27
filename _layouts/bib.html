@@ -39,6 +39,20 @@
           {% endif %}
 
           {%- for author in entry.author_array limit: author_array_limit -%}
+
+            {%- assign full_name = author.first | append: " " | append: author.last -%}
+
+              {%- if full_name == "Bing Zhenshan" -%}
+                <b>{{ full_name }}</b>
+              {%- else -%}
+                {{ full_name }}
+              {%- endif -%}
+
+              {%- if forloop.length > 1 -%}
+                {%- if forloop.first == false -%},&nbsp;{%- endif -%}
+                {%- if forloop.last and author_array_limit == author_array_size -%}and&nbsp;{%- endif -%}
+              {%- endif -%}
+
             {%- assign author_is_self = false -%}
             {%- assign author_last_name = author.last | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" -%}
             {%- if author_last_name == site.scholar.last_name -%}
