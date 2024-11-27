@@ -14,6 +14,13 @@
       inlineMath: [['$', '$'], ['\\(', '\\)']],
       displayMath: [['$$', '$$'], ['\\[', '\\]']],
       processEscapes: true
+    },
+    "HTML-CSS": { availableFonts: ["TeX"] }, // 确保使用的字体支持样式
+    TeX: {
+      extensions: ["AMSmath.js", "AMSsymbols.js"], // 启用 AMS 扩展
+      Macros: {
+        textbf: ["{\\bf #1}", 1] // 添加对 \textbf 的支持
+      }
     }
   });
   </script>
