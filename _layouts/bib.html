@@ -57,23 +57,6 @@
                 {%- endif -%}
               {%- endfor -%}
             {%- endif -%}
-
-            {%- for author in entry.author_array limit: author_array_limit -%}
-              {%- assign full_name = author.first | append: " " | append: author.last -%}
-              
-              {%- if full_name contains "\\textbf{" -%}
-                {%- assign bold_name = full_name | replace: "\\textbf{", "<b>" | replace: "}", "</b>" -%}
-                {{ bold_name }}
-              {%- else -%}
-                {{ full_name }}
-              {%- endif -%}
-
-              {%- if forloop.length > 1 -%}
-                {%- if forloop.first == false -%},&nbsp;{%- endif -%}
-                {%- if forloop.last and author_array_limit == author_array_size -%}and&nbsp;{%- endif -%}
-              {%- endif -%}
-            {%- endfor -%}
-
             
             {%- if forloop.length > 1 -%}
               {%- if forloop.first == false -%},&nbsp;{%- endif -%}
