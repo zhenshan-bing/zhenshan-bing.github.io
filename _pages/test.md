@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /press/
-title: Media coverage
+title: Media
 description: Media coverages of our work.
 nav: true
 nav_order: 4
