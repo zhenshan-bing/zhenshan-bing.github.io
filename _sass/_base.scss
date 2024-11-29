@@ -651,3 +651,14 @@ html.transition *:after {
     }
   }
 }
+
+
+// language-switcher
+.language-switcher .dropdown-menu {
+  min-width: 100px;
+  text-align: center;
+}
+
+.language-switcher .dropdown-item {
+  padding: 5px 10px;
+}
