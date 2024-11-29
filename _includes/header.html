@@ -37,6 +37,20 @@
           <div class="collapse navbar-collapse text-right" id="navbarNav">
             <ul class="navbar-nav ml-auto flex-nowrap">
 
+              <!-- Language Switcher -->
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="languageDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Language
+                </a>
+                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="languageDropdown">
+                  {% for lang in site.languages %}
+                    <a class="dropdown-item" href="{{ site.baseurl }}/{{ lang[0] }}/">
+                      {{ lang[1].label }}
+                    </a>
+                  {% endfor %}
+                </div>
+              </li>
+
               {%- for page in site.pages -%}
                 {% if page.permalink == '/' %}
                   {% assign about_title = page.title %}
