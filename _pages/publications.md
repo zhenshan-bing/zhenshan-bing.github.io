@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: * indicates the corresponding author and # indicates equal contributions.
+description: Zhenshan Bing's publications are listed in this webpage. * indicates the corresponding author and # indicates equal contributions.
 years: [2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017]
 nav: true
 nav_order: 1
