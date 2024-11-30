@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: *** indicates the corresponding author and &#35; indicates co-first authorship.**
+description: <b>* indicates the corresponding author and &#35; indicates co-first authorship.</b>
 years: [2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017]
 nav: true
 nav_order: 1
