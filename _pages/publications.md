@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Zhenshan Bing's publications are listed in this webpage. * indicates the corresponding author and &#35; indicates co-first authorship.
+description: "* indicates the corresponding author and &#35; indicates co-first authorship."
 years: [2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017]
 nav: true
 nav_order: 1
