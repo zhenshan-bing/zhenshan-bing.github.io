@@ -5,3 +5,4 @@ inline: true
 ---
 
 Our recent work "Modulating emotional states of rats through a rat-like robot with learned interaction patterns" has been published by Nature Machine Intelligence! 
+Read it at [here](https://doi.org/10.1038/s42256-024-00939-y)!
