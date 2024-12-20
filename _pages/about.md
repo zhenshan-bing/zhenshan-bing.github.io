@@ -90,6 +90,10 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
     <p>Headline of <a href="https://www.science.org/doi/10.1126/scirobotics.adg7165"><strong><em>Science</em></strong></a> website.</p>
   </div>
   <div class="scroll-item">
+    <img src="assets/img/nmi-bit-12.png" alt="Image 2">
+    <p>Cover of <a href="https://www.nature.com/articles/s42256-024-00939-y"><strong><em>Nature Machine Intelligence</em></strong></a></p>
+  </div>
+  <div class="scroll-item">
     <img src="assets/img/Nermo_image_1.png" alt="Image 3">
     <p>Rat-like robot.</p>
   </div>
