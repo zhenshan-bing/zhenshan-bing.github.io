@@ -16,6 +16,6 @@ This work is also featured as the cover of the issue in December 2024!
     This work is also featured as the cover of the issue in December 2024!
   </div>
   <div style="flex: 0; margin-left: 20px;">
-    <img src="assets/img/publication_preview/nmi-bit-12.png" alt="Alt text" width="300" height="200">
+    <img src="assets/img/publication_preview/nmi-bit-12.png" alt="Alt text" width="220" height="292">
   </div>
 </div>
