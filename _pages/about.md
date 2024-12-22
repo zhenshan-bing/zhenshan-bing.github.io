@@ -61,7 +61,7 @@ In 2024, I was a visiting scholar at the <a href="https://www.epfl.ch/labs/bioro
 
 
 <div style="text-align: justify;">
-I have authored approximately 100 peer-reviewed publications in esteemed journals and conference proceedings within the field of robotics and AI, notably including publications in <b>Science Robotics</b>, <b>Nature Machine Intelligence</b>> and <b>IEEE Transactions on Pattern Analysis and Machine Intelligence</b>.
+I have authored approximately 100 peer-reviewed publications in esteemed journals and conference proceedings within the field of robotics and AI, notably including publications in <b>Science Robotics</b>, <b>Nature Machine Intelligence (Cover article)</b>, and <b>IEEE Transactions on Pattern Analysis and Machine Intelligence</b>.
 </div>
 
 <!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=TS_RSqlWck-8Fvk_1h7RcwL9LyxO0JZhNyyHyJygIxM&cl=ffffff&w=a"></script> -->
