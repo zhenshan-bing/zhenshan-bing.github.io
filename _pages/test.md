@@ -4,7 +4,7 @@ permalink: /press/
 title: Media
 description: Media coverages of our work.
 nav: false
-nav_order: 4
+nav_order: 7
 ---
 
 - Our work has been selected as the **Scientific Picture of the Week** by GEO Online. [link](https://www.geo.de/wissen/forschung-und-technik/blick-in-die-wissenschaft--geo-bild-der-woche--33719978.html).
