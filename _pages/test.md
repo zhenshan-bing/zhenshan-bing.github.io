@@ -3,7 +3,7 @@ layout: page
 permalink: /press/
 title: Media
 description: Media coverages of our work.
-nav: true
+nav: false
 nav_order: 4
 ---
 
