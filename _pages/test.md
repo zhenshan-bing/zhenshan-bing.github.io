@@ -6,7 +6,8 @@ description: Media coverages of our work.
 nav: false
 nav_order: 7
 ---
-
+- Our work has been reported by the **机器人大讲堂**. [newspaper](https://mp.weixin.qq.com/s/XIVaM5-qzyusb2Tnza9b1Q).
+- Our work has been featured in an article by Mrs. Ingrid Fadelli in the **Tech Xplore**. [link](https://techxplore.com/news/2025-02-skill-acquisition-robots-framework-mimics.html).
 - Our work has been selected as the **Scientific Picture of the Week** by GEO Online. [link](https://www.geo.de/wissen/forschung-und-technik/blick-in-die-wissenschaft--geo-bild-der-woche--33719978.html).
 
 - Our work has been featured in an article by Mr. Matthew Sparkes in the **NewScientist**. [link](https://www.newscientist.com/article/2406168-robotic-mouse-with-flexible-spine-moves-with-greater-speed-and-agility/).
