@@ -98,6 +98,10 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
     <p>Cover of <a href="https://www.nature.com/articles/s42256-024-00939-y"><strong><em>Nature Machine Intelligence</em></strong></a></p>
   </div>
   <div class="scroll-item">
+    <img src="assets/img/cbs_cover.png" alt="Image 2">
+    <p>Cover of <a href="https://spj.science.org/doi/full/10.34133/cbsystems.0140"><strong><em>Cyborg and Bionic Systems </em></strong></a></p>
+  </div>
+  <div class="scroll-item">
     <img src="assets/img/Nermo_image_1.png" alt="Image 3">
     <p>Rat-like robot.</p>
   </div>
