@@ -29,6 +29,8 @@ hide_title: true
 </div>
 
 
+<div class="custom-divider"></div>
+
 <!-- Research topics -->
 <h2>Research areas</h2>
 
