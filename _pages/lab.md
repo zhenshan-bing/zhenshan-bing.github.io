@@ -7,18 +7,8 @@ nav_order: 8
 hide_title: true
 ---
 
-<!-- <div style="background-color: #0a1f40; color: white; padding: 20px; display: flex; justify-content: space-between; align-items: center;">
-  <div style="line-height: 1.5;">
-    <div>Lehrstuhl für Robotik, Künstliche Intelligenz und Echtzeitsysteme</div>
-    <div>TUM School of Computation, Information and Technology</div>
-    <div>Technische Universität München</div>
-  </div>
-  <div>
-    <img src="/assets/img/Lab_Logo.png" alt="TUM Logo" style="height: 50px;">
-  </div>
-</div> -->
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<!-- <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1;">
     <h2><strong>EMOBIDCA</strong></h2>
     <p>
@@ -31,5 +21,22 @@ hide_title: true
     <img src="/assets/img/Lab_Logo.png" alt="Lab Logo" style="max-width: 200%; height: auto;">
     <img src="/assets/img/nju_logo.png" alt="Lab Logo" style="max-width: 200%; height: auto;">
   </div>
-</div>
+</div> -->
 
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 30px; padding: 20px 0;">
+  <!-- 左边文字 -->
+  <div style="flex: 1;">
+    <h2><strong>EMOBIDCA</strong></h2>
+    <p style="line-height: 1.6;">
+      <strong>Embodied Intelligence and Robotic Systems (EMOBIDCA) Lab</strong><br>
+      <strong>School of Intelligence and Science Technology</strong><br>
+      <strong>Nanjing University (Suzhou Campus)</strong>
+    </p>
+  </div>
+
+  <!-- 右边两个 logo -->
+  <div style="display: flex; gap: 20px; align-items: center; flex-shrink: 0;">
+    <img src="/assets/img/Lab_Logo.png" alt="Lab Logo" style="height: 60px; max-width: 100%;">
+    <img src="/assets/img/nju_logo.png" alt="NJU Logo" style="height: 60px; max-width: 100%;">
+  </div>
+</div>
