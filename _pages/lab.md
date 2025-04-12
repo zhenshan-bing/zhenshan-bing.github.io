@@ -8,6 +8,13 @@ hide_title: true
 ---
 
 
+<!-- Title -->
+<div style="text-align: center; margin: 40px 0;">
+  <h2 style="margin: 0;"><strong>EMBODICA Lab</strong></h2>
+</div>
+
+<div class="custom-divider"></div>
+
 <!-- 第一部分介绍 -->
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 30px; padding: 20px 0;">
