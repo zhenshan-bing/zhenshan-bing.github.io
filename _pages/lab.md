@@ -7,6 +7,17 @@ nav_order: 8
 hide_title: true
 ---
 
+<div style="background-color: #0a1f40; color: white; padding: 20px; display: flex; justify-content: space-between; align-items: center;">
+  <div style="line-height: 1.5;">
+    <div>Lehrstuhl für Robotik, Künstliche Intelligenz und Echtzeitsysteme</div>
+    <div>TUM School of Computation, Information and Technology</div>
+    <div>Technische Universität München</div>
+  </div>
+  <div>
+    <img src="/assets/img/Lab_Logo.png" alt="TUM Logo" style="height: 50px;">
+  </div>
+</div>
+
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1;">
     <h2><strong>EMOBIDCA</strong></h2>
