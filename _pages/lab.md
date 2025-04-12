@@ -47,15 +47,14 @@ hide_title: true
     <h3 style="color: #00274d;">Robotics</h3>
     <img src="/assets/img/Nermo_image_1.png" alt="robotic system" style="width: 100%; border: 4px solid black; border-radius: 4px;">
     <p style="margin-top: 10px;">
-      These systems are investigated with special emphasis on fault tolerance and high availability;
-      special topics are the design of very small redundant systems and the associated software development models and tool chains.
+      We explore the design, control, and application of diverse robotic systems—including rat robots, snake robots, robotic arms, and humanoid robots—to advance intelligent, adaptive, and multifunctional automation across complex environments.
     </p>
   </div>
 
   <!-- Card 2 -->
   <div style="flex: 1 1 45%; background-color: #f0f6fc; padding: 20px; border-radius: 8px;">
     <h3 style="color: #00274d;">Embodied Intelligence</h3>
-    <img src="/assets/img/EI_algo.png" alt="Human Robot Interaction" style="width: 100%; border-radius: 4px;">
+    <img src="/assets/img/Nermo_image_1.png" alt="Human Robot Interaction" style="width: 100%; border: 4px solid black; border-radius: 4px;">
     <p style="margin-top: 10px;">
       This includes work on the integration of speech, language, vision and action;
       programming service robots; development of new application scenarios for sensor-based service robots;
