@@ -48,3 +48,63 @@ nav_order: 9
 <div style="text-align: justify;">
 I have authored approximately 100 peer-reviewed publications in esteemed journals and conference proceedings within the field of robotics and AI, notably including publications in <b>Science Robotics</b>, <b>Nature Machine Intelligence (Cover article)</b>, and <b>IEEE Transactions on Pattern Analysis and Machine Intelligence</b>.
 </div>
+
+
+<div class="custom-divider"></div>
+
+<section class="professional-service">
+  <h2 style="font-weight: bold;">Professional Service</h2>
+  <ul>
+    <li>
+      <span class="date">2022 - now</span> Associate Editor: 
+      <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/tnnls-editor-and-associate-editors">IEEE Transactions on Neural Networks and Learning Systems</a>
+    </li>
+    <li>
+      <span class="date">2022 - now</span> Associate Editor: 
+      <a href="https://spj.science.org/page/cbsystems/editors/young-editors">Cyborg and Bionic Systems</a>
+    </li>
+    <li>
+      <span class="date">2021 - now</span> Associate Editor: 
+      <a href="https://www.frontiersin.org/journals/neurorobotics/editors">Frontiers in Neurorobotics</a>
+    </li>
+    <li>
+      <span class="date">2024</span> Associate Editor: 
+      <a href="https://2025.ieee-icra.org/">IEEE International Conference on Robotics and Automation (ICRA) 2025</a>
+    </li>
+    <li>
+      <span class="date">2023</span> Workshop Organizer: 
+      <a href="https://sites.google.com/view/robot-ai-future-factory/home/">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023</a>
+    </li>
+  </ul>
+</section>
+
+
+
+<div class="custom-divider"></div>
+
+
+<section class="professional-service">
+  <h2 style="font-weight: bold;">Awards</h2>
+  <ul>
+    <li>
+      <span class="date">2024</span> Fellowship: 
+      <a href="https://eurotech-universities.eu/funding/eurotech-visiting-researcher-programme/">EuroTech Visiting Researcher Programme</a>, <a href="/assets/pdf/EuroTech_VRP_2024_Bing.PDF">PDF</a>
+    </li>
+    <li>
+      <span class="date">2023</span> Best paper finalist: 
+      <a href="http://robio2023.org/Awards.html">2023 IEEE International Conference on Robotics and Biomimetics (ROBIO)</a>
+    </li>
+    <li>
+      <span class="date">2022</span> Best paper finalist: 
+      <a href="http://www.ieee-arm.org/icarm2022/">2022 IEEE International Conference on Advanced Robotics & Mechatronics (ARM)</a>
+    </li>
+    <li>
+      <span class="date">2018</span> Best paper award: 
+      <a href="http://hfr2018.org/">2018 International Workshop on Human Friendly Robotics (HFR)</a>
+    </li>
+  </ul>
+</section>
+
+
+
+<div class="custom-divider"></div>
