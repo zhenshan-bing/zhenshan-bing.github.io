@@ -5,7 +5,7 @@ permalink: / -->
 
 ---
 layout: page
-title: "<strong>Zhenshan Bing</strong>"
+title: "Zhenshan Bing"
 permalink: /about/
 nav: true
 nav_order: 8
