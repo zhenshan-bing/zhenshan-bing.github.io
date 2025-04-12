@@ -44,7 +44,7 @@ social: true  # includes social icons at the bottom of the page
 <div class="custom-divider"></div>
 
 <!-- Research topics -->
-<h2>Highlights</h2>
+<h2 style="font-weight: bold;">Highlights</h2>
 <div class="scroll-container">
 <!--   <div class="scroll-item">
     <img src="assets/img/BZS.jpg" alt="Image 1">
@@ -88,7 +88,7 @@ social: true  # includes social icons at the bottom of the page
 
 
 <!-- Research topics -->
-<h2>Research areas</h2>
+<h2 style="font-weight: bold;">Research areas</h2>
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: space-between;">
 
