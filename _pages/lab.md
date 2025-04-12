@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "**Lab**"
+title: "<strong>Lab</strong>"
 permalink: /lab/
 nav: true
 nav_order: 8
