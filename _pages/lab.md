@@ -54,11 +54,9 @@ hide_title: true
   <!-- Card 2 -->
   <div style="flex: 1 1 45%; background-color: #f0f6fc; padding: 20px; border-radius: 8px;">
     <h3 style="color: #00274d;">Embodied Intelligence</h3>
-    <img src="/assets/img/Nermo_image_1.png" alt="Human Robot Interaction" style="width: 100%; border: 4px solid black; border-radius: 4px;">
+    <img src="/assets/img/humanoid_CNC.png" alt="Human Robot Interaction" style="width: 100%; border: 4px solid black; border-radius: 4px;">
     <p style="margin-top: 10px;">
-      This includes work on the integration of speech, language, vision and action;
-      programming service robots; development of new application scenarios for sensor-based service robots;
-      robot systems for education.
+      This research focuses on embodied AI, foundation model, and reinforcement learning to enable intelligent agents that can learn, adapt, and act effectively in real-world environments through physical interaction and large-scale knowledge integration.
     </p>
   </div>
 
