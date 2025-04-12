@@ -10,7 +10,7 @@ permalink: /about/
 nav: true
 nav_order: 8
 hide_title: true
-permalink: /
+<!-- permalink: / -->
 ---
 
 
