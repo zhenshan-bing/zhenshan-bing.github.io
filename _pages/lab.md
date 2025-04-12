@@ -4,6 +4,7 @@ title: "<strong>Lab</strong>"
 permalink: /lab/
 nav: true
 nav_order: 8
+hide_title: true
 ---
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
