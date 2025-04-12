@@ -38,6 +38,8 @@ permalink: /
 
 <div class="custom-divider"></div>
 
+<!-- Research topics -->
+<h2>Highlights</h2>
 <div class="scroll-container">
 <!--   <div class="scroll-item">
     <img src="assets/img/BZS.jpg" alt="Image 1">
