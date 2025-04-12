@@ -14,7 +14,7 @@ nav_order: 8
     </p>
   </div>
   <div style="flex: 0 0 150px; text-align: right; padding-left: 20px;">
-    <img src="/assets/img/Lab_Logo.png" alt="Lab Logo" style="max-width: 150%; height: auto;">
+    <img src="/assets/img/Lab_Logo.png" alt="Lab Logo" style="max-width: 200%; height: auto;">
   </div>
 </div>
 
