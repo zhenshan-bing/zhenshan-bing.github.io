@@ -1,9 +1,17 @@
----
+<!-- ---
 layout: about
 title: About
-permalink: /
-<!-- subtitle: Postdoc Researcher at <a href='https://www.ce.cit.tum.de/air/people/zhenshan-bing-drrernat/'>Technical University of Munich (TUM)</a> # Address. Contacts. Moto. Etc. -->
+permalink: / -->
 
+---
+layout: page
+title: "<strong>Lab</strong>"
+permalink: /lab/
+nav: true
+nav_order: 8
+hide_title: true
+permalink: /
+---
 
 
 news: true  # includes a list of news items

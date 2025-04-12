@@ -1,10 +1,11 @@
 ---
 layout: page
 title: "<strong>Lab</strong>"
-permalink: /lab/
+<!-- permalink: /lab/ -->
 nav: true
 nav_order: 8
 hide_title: true
+permalink: /
 ---
 
 
