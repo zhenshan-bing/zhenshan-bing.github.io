@@ -13,7 +13,7 @@ hide_title: true
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 30px; padding: 20px 0;">
   <!-- 左边文字 -->
   <div style="flex: 1; text-align: center;">
-    <h2 style="margin-bottom: 10px;"><strong>EMOBIDCA Lab</strong></h2>
+    <h2 style="margin-bottom: 10px;"><strong>EMBODICA Lab</strong></h2>
     <p style="line-height: 1.6; text-align: left;">
       <strong>Embodied Intelligence and Robotic Systems (EMOBIDCA) Lab</strong><br>
       <strong>School of Intelligence and Science Technology</strong><br>
