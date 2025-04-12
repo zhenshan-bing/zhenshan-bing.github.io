@@ -5,8 +5,8 @@ permalink: / -->
 
 ---
 layout: page
-title: "<strong>Lab</strong>"
-permalink: /lab/
+title: "<strong>Zhenshan Bing</strong>"
+permalink: /about/
 nav: true
 nav_order: 8
 hide_title: true
