@@ -4,7 +4,7 @@ title: About
 permalink: / -->
 
 ---
-layout: page
+layout: about
 title: "<strong>Zhenshan Bing</strong>"
 permalink: /about/
 nav: true

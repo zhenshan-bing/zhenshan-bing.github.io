@@ -2,7 +2,7 @@
 layout: page
 title: "<strong>Lab</strong>"
 <!-- permalink: /lab/ -->
-nav: true
+<!-- nav: true -->
 <!-- nav_order: 8 -->
 hide_title: true
 permalink: /
@@ -62,3 +62,5 @@ permalink: /
   </div>
 
 </div>
+
+<div class="custom-divider"></div>
