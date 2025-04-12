@@ -8,20 +8,7 @@ hide_title: true
 ---
 
 
-<!-- <div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1;">
-    <h2><strong>EMOBIDCA</strong></h2>
-    <p>
-      <strong>Embodied Intelligence and Robotic Systems (EMOBIDCA) Lab</strong>
-      <strong>School of Intelligence and Science Technology</strong>
-      <strong>Nanjing University (Suzhou Campus)</strong>
-    </p>
-  </div>
-  <div style="flex: 0 0 150px; text-align: right; padding-left: 20px;">
-    <img src="/assets/img/Lab_Logo.png" alt="Lab Logo" style="max-width: 200%; height: auto;">
-    <img src="/assets/img/nju_logo.png" alt="Lab Logo" style="max-width: 200%; height: auto;">
-  </div>
-</div> -->
+<!-- 第一部分介绍 -->
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 30px; padding: 20px 0;">
   <!-- 左边文字 -->
@@ -39,4 +26,33 @@ hide_title: true
     <img src="/assets/img/Lab_Logo.png" alt="Lab Logo" style="height: 60px; max-width: 100%;">
     <img src="/assets/img/nju_logo.jpg" alt="NJU Logo" style="height: 60px; max-width: 100%;">
   </div>
+</div>
+
+
+<!-- Research topics -->
+<h2>Research areas</h2>
+
+<div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: space-between;">
+
+  <!-- Card 1 -->
+  <div style="flex: 1 1 45%; background-color: #f0f6fc; padding: 20px; border-radius: 8px;">
+    <h3 style="color: #00274d;">Cyber-Physical / Embedded Systems</h3>
+    <img src="/assets/img/snake_arm.jpg" alt="Cyber-Physical Systems" style="width: 100%; border: 4px solid black; border-radius: 4px;">
+    <p style="margin-top: 10px;">
+      These systems are investigated with special emphasis on fault tolerance and high availability;
+      special topics are the design of very small redundant systems and the associated software development models and tool chains.
+    </p>
+  </div>
+
+  <!-- Card 2 -->
+  <div style="flex: 1 1 45%; background-color: #f0f6fc; padding: 20px; border-radius: 8px;">
+    <h3 style="color: #00274d;">Human-Robot Interaction and Service Robotics</h3>
+    <img src="/assets/img/snake_arm.jpg" alt="Human Robot Interaction" style="width: 100%; border-radius: 4px;">
+    <p style="margin-top: 10px;">
+      This includes work on the integration of speech, language, vision and action;
+      programming service robots; development of new application scenarios for sensor-based service robots;
+      robot systems for education.
+    </p>
+  </div>
+
 </div>
