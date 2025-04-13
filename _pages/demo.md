@@ -7,7 +7,7 @@ hide_title: true
 nav_order: 11
 ---
 
-<h2 style="text-align: center;">Demo Gallery</h2>
+<h2 style="text-align: center;">Demo Gallery (under construction)</h2>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
@@ -31,7 +31,7 @@ nav_order: 11
     <video autoplay loop muted playsinline style="width: 100%; border-radius: 8px;">
       <source src="/assets/videos/demo3.mp4" type="video/mp4">
     </video>
-    <p style="text-align: center;">Robot assembly with visual planning.</p>
+    <p style="text-align: center;">Dual arm manipulation of cables and harness.</p>
   </div>
 
 </div>
