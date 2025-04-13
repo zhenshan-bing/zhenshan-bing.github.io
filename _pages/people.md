@@ -3,6 +3,7 @@ layout: page
 permalink: /people/
 title: People
 nav: true
+hide_title: true
 nav_order: 9
 ---
 
@@ -22,4 +23,4 @@ nav_order: 9
 
 
   <!-- 添加更多学生：复制粘贴上面结构即可 -->
-</div>
+<!-- </div> -->
