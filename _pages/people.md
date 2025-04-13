@@ -13,7 +13,7 @@ nav_order: 9
     <img src="/assets/img/BZS.jpg" style="width: 100%; border-radius: 12px;" alt="Zhenshan Bing">
     <p><strong>Zhenshan Bing</strong><br>Associate Professor, RI</p>
     <p>
-      <a href="https://yourwebsite.com"><i class="fas fa-home"></i></a>&nbsp;
+      <a href="https://zhenshan-bing.github.io/zhenshan/"><i class="fas fa-home"></i></a>&nbsp;
       <a href="mailto:bing@nju.edu.en"><i class="fas fa-envelope"></i></a>&nbsp;
       <!-- <a href="https://twitter.com/guanya"><i class="fab fa-twitter"></i></a> -->
     </p>
