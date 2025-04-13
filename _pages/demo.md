@@ -22,8 +22,8 @@ nav_order: 11
 
   <!-- 第二列 -->
   <div style="width: 30%;">
-    <img src="/assets/img/demo2.gif" alt="Safe tactile manipulation" style="width: 100%; border-radius: 8px;">
-    <p style="text-align: center;"><strong>Safe tactile manipulation using unified force-impedance control.</strong></p>
+    <img src="/assets/img/projects/collective-learning-system-pitchgif.gif" alt="Safe tactile manipulation" style="width: 100%; border-radius: 8px;">
+    <p style="text-align: center;"><strong>Collective Learning - Parallel and Distributed Robot Learning System.</strong></p>
   </div>
 
   <!-- 第三列 -->
