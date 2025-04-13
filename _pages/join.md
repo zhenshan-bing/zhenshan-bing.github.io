@@ -19,6 +19,8 @@ _(e.g.,_ *Application + PhD + Jane Doe*_)_
 
 I aim to respond to all inquiries within one week. If you do not receive a reply, it may have been overlooked—please feel free to follow up.
 
+<div class="custom-divider"></div>
+
 ### **加入我们的研究团队：现招收博士研究生、博士后及学术实习生！**
 
 我们正在积极招募有志于科研的优秀人才，提供**博士研究生**、**博士后**及**学术实习**岗位。如果你对科研充满热情，渴望在充满活力的环境中参与前沿研究，欢迎加入我们！
