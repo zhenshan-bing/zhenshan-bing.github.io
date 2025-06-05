@@ -12,7 +12,7 @@ nav_order: 90
   <img src="/assets/img/BZS.jpg" alt="Profile Picture">
   <div class="profile-text">
     <h1>Dr. Zhenshan Bing</h1>
-    <p>Postdoc Researcher at <a href="https://www.ce.cit.tum.de/air/people/zhenshan-bing-drrernat/">Technical University of Munich (TUM)</a></p>
+    <p>Associate Professor at <a href="https://www.ce.cit.tum.de/air/people/zhenshan-bing-drrernat/">Nanjing University</a></p>
     <p>Chair of Robotics, Artificial Intelligence, and Real-Time Systems</p>
     <p>Munich, Germany</p>
     <div class="social-icons">
