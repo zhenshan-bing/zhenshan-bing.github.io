@@ -13,8 +13,8 @@ nav_order: 90
   <div class="profile-text">
     <h1>Dr. Zhenshan Bing</h1>
     <p>Associate Professor at <a href="https://www.ce.cit.tum.de/air/people/zhenshan-bing-drrernat/">Nanjing University</a></p>
-    <p>Chair of Robotics, Artificial Intelligence, and Real-Time Systems</p>
-    <p>Munich, Germany</p>
+    <p>School of Intelligence Science and Technology</p>
+    <p>Suzhou, China</p>
     <div class="social-icons">
       <a href="https://scholar.google.com/citations?user=eIz0XvMAAAAJ&hl=en" target="_blank"><i class="fab fa-google"></i></a>
       <a href="mailto:zhenshan.bing@tum.de"><i class="fas fa-envelope"></i></a>
@@ -32,6 +32,7 @@ nav_order: 90
   </p>
 
   <p>
+    From June 2025, I will work as an associate professor at the School of Intelligence Science and Technology, Nanjing University.
     In August 2019, I joined the 
     <a href="https://www.humanbrainproject.eu/en/">Human Brain Project</a> SP10 Neurorobotics research group at TUM as a post-doc researcher. Previously, I received my Bachelor degree in Mechanical Design Manufacturing and Automation from Harbin Institute of Technology, China in 2013, and my M.Eng degree in Mechanical Engineering (State Key Laboratory of Robotics System) at the same university in 2015. I received my PhD degree in computer science from the Technical University of Munich under the supervision of 
     <a href="https://www.ce.cit.tum.de/air/people/prof-dr-ing-habil-alois-knoll/">Prof. Alois Knoll</a> in June 2019.
