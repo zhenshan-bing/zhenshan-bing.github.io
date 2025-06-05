@@ -67,7 +67,7 @@ social: true  # includes social icons at the bottom of the page
     <p>Cover of <a href="https://spj.science.org/doi/full/10.34133/cbsystems.0140"><strong><em>Cyborg and Bionic Systems </em></strong></a></p>
   </div>
   <div class="scroll-item">
-    <img src="assets/img/Nermo_image_1.png" alt="Image 3">
+    <img src="assets/img/Nermo_image_1.webp" alt="Image 3">
     <p>Rat-like robot.</p>
   </div>
   <div class="scroll-item">
@@ -95,7 +95,7 @@ social: true  # includes social icons at the bottom of the page
   <!-- Card 1 -->
   <div style="flex: 1 1 45%; background-color: #f0f6fc; padding: 20px; border-radius: 8px;">
     <h3 style="color: #00274d;">Robotics</h3>
-    <img src="/assets/img/Nermo_image_1.png" alt="robotic system" style="width: 100%; border: 4px solid black; border-radius: 4px;">
+    <img src="/assets/img/Nermo_image_1.webp" alt="robotic system" style="width: 100%; border: 4px solid black; border-radius: 4px;">
     <p style="margin-top: 10px;">
       We explore the design, control, and application of diverse robotic systems—including rat robots, snake robots, robotic arms, and humanoid robots—to advance intelligent, adaptive, and multifunctional automation across complex environments.
     </p>
