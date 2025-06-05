@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 
 <div class="profile-section">
-  <img src="assets/img/BZS.jpg" alt="Profile Picture">
+  <img src="assets/img/BZS.webp" alt="Profile Picture">
   <div class="profile-text">
     <h1>Dr. Zhenshan Bing</h1>
     <p>Postdoc Researcher at <a href="https://www.ce.cit.tum.de/air/people/zhenshan-bing-drrernat/">Technical University of Munich (TUM)</a></p>
