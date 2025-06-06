@@ -62,7 +62,7 @@ social: true  # includes social icons at the bottom of the page
   </p>
 
   <p style="color: black; font-weight: regular;">
-    欢迎有 <strong>具身智能</strong>、<strong>机器人</strong>、机器人硬件开发等相关方向科研经历、学科竞赛获奖的同学邮件联系我。
+    欢迎有 <strong>具身智能</strong>、<strong>机器人</strong>、<strong>人工智能</strong>、<strong>机电一体化</strong>、<strong>自动化</strong>、机器人硬件开发等相关方向科研经历、学科竞赛获奖的同学邮件联系我。
     此外也接收对相关方向感兴趣的本科同学进组学习与科研。
   </p>
 </div>
