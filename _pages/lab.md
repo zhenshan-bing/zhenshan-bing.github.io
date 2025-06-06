@@ -45,7 +45,7 @@ social: true  # includes social icons at the bottom of the page
 <div class="custom-divider"></div>
 
 <h2 style="font-weight: bold;">Join us</h2>
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 30px; padding: 20px 0;">
+<div>
   <p style="color: black; font-weight: bold;">
     We welcome undergraduate/graduate students, post-docs, research assistants and visiting interns/scholars.
     Please drop me <a href="mailto:bing@nju.edu.cn" style="color: blue; text-decoration: underline;">an email</a>
