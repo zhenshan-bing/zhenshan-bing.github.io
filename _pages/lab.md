@@ -44,7 +44,7 @@ social: true  # includes social icons at the bottom of the page
 <!-- 招生广告 -->
 <div class="custom-divider"></div>
 
-
+<h2 style="font-weight: bold;">Join us</h2>
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 30px; padding: 20px 0;">
   <p style="color: black; font-weight: bold;">
     We welcome undergraduate/graduate students, post-docs, research assistants and visiting interns/scholars.
