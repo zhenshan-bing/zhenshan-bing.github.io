@@ -49,11 +49,11 @@ social: true  # includes social icons at the bottom of the page
   <p style="color: black; font-weight: regular;">
     We welcome undergraduate/graduate students, post-docs, research assistants and visiting interns/scholars.
     Please drop me <a href="mailto:bing@nju.edu.cn" style="color: blue; text-decoration: underline;">an email</a>
-    if you are interested in our group.
+    if you are interested in our group. For more details, please refer to <a href="https://zhenshan-bing.github.io/join/" target="_blank" style="color: blue;">Join us</a>
   </p>
 
   <p style="color: black; font-weight: bold;">
-    课题组长期欢迎优秀的同学加入：
+    课题组长期欢迎优秀的同学加入(详见：<a href="https://zhenshan-bing.github.io/join/" target="_blank" style="color: blue;">招生说明页</a>)：
   </p>
 
   <p style="color: black; font-weight: regular;">
