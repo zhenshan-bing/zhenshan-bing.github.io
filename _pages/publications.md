@@ -8,11 +8,27 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
-<div class="publications">
+<!-- <div class="publications">
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
+</div> -->
+
+
+
+
+<div class="publications">
+  {% assign pubs = site.bibliography | sort: "year" | reverse %}
+  {% for pub in pubs %}
+    <p>
+      [{{ forloop.index }}]
+      {% if pub.author %}<strong>{{ pub.author }}</strong>. {% endif %}
+      {% if pub.title %}<em>{{ pub.title }}</em>. {% endif %}
+      {% if pub.journal %}{{ pub.journal }}, {% endif %}
+      {% if pub.year %}{{ pub.year }}.{% endif %}
+    </p>
+  {% endfor %}
 </div>
