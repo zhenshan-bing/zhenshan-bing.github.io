@@ -75,7 +75,7 @@ social: true  # includes social icons at the bottom of the page
     <p>Snake-like robotic arm.</p>
   </div>
   <div class="scroll-item">
-    <img src="assets/img/snake_track.jpg" alt="Image 2">
+    <img src="assets/img/snake_track_small.jpg" alt="Image 2">
     <p>Snake-track robot.</p>
   </div>
     <div class="scroll-item">
