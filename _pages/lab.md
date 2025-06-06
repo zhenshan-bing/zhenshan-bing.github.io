@@ -45,23 +45,23 @@ social: true  # includes social icons at the bottom of the page
 <div class="custom-divider"></div>
 
 
-<div style="border: 1px solid #ccc; padding: 10px; background-color: #fdfde9; font-size: 16px; line-height: 1.6;">
-  <p style="color: red; font-weight: bold;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 30px; padding: 20px 0;">
+  <p style="color: black; font-weight: bold;">
     We welcome undergraduate/graduate students, post-docs, research assistants and visiting interns/scholars.
     Please drop me <a href="mailto:bing@nju.edu.cn" style="color: blue; text-decoration: underline;">an email</a>
     if you are interested in our group.
   </p>
 
-  <p style="color: red; font-weight: bold;">
+  <p style="color: black; font-weight: bold;">
     课题组长期欢迎优秀的同学加入：
   </p>
 
-  <p style="color: red; font-weight: bold;">
+  <p style="color: black; font-weight: bold;">
     关于 <strong>2025</strong> 年研究生招生：还有 <strong>25年考研硕士名额1位</strong>；
     关于 <strong>2026</strong> 年研究生招生：<strong>26年考核制博士生名额2位</strong>。
   </p>
 
-  <p style="color: red; font-weight: bold;">
+  <p style="color: black; font-weight: bold;">
     欢迎有 <strong>具身智能</strong>、机器人智能控制、机器人硬件开发等相关方向科研经历、学科竞赛获奖的同学邮件联系我。
     此外也接收对相关方向感兴趣的本科同学进组学习与科研。
   </p>
