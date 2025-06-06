@@ -49,7 +49,7 @@ social: true  # includes social icons at the bottom of the page
   <p style="color: black; font-weight: regular;">
     We welcome undergraduate/graduate students, post-docs, research assistants and visiting interns/scholars.
     Please drop me <a href="mailto:bing@nju.edu.cn" style="color: blue; text-decoration: underline;">an email</a>
-    if you are interested in our group. For more details, please refer to <a href="https://zhenshan-bing.github.io/join/" target="_blank" style="color: blue;">Join us</a>
+    if you are interested in our group. For more details, please refer to <a href="https://zhenshan-bing.github.io/join/" target="_blank" style="color: blue;">Join us</a>.
   </p>
 
   <p style="color: black; font-weight: bold;">
@@ -62,7 +62,7 @@ social: true  # includes social icons at the bottom of the page
   </p>
 
   <p style="color: black; font-weight: regular;">
-    欢迎有 <strong>具身智能</strong>、机器人智能控制、机器人硬件开发等相关方向科研经历、学科竞赛获奖的同学邮件联系我。
+    欢迎有 <strong>具身智能</strong>、<strong>机器人</strong>、机器人硬件开发等相关方向科研经历、学科竞赛获奖的同学邮件联系我。
     此外也接收对相关方向感兴趣的本科同学进组学习与科研。
   </p>
 </div>
@@ -92,10 +92,10 @@ social: true  # includes social icons at the bottom of the page
     <img src="assets/img/cbs_cover_small.jpg" alt="Image 2">
     <p>Cover of <a href="https://spj.science.org/doi/full/10.34133/cbsystems.0140"><strong><em>Cyborg and Bionic Systems </em></strong></a></p>
   </div>
-  <div class="scroll-item">
+<!--   <div class="scroll-item">
     <img src="assets/img/Nermo_image_1.webp" alt="Image 3">
     <p>Rat-like robot.</p>
-  </div>
+  </div> -->
   <div class="scroll-item">
     <img src="assets/img/snake_arm.jpg" alt="Image 3">
     <p>Snake-like robotic arm.</p>
