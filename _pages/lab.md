@@ -35,7 +35,7 @@ social: true  # includes social icons at the bottom of the page
 
   <!-- 右边两个 logo -->
   <div style="display: flex; gap: 20px; align-items: center; flex-shrink: 0;">
-    <img src="/assets/img/Lab_Logo.png" alt="Lab Logo" style="height: 60px; max-width: 100%;">
+    <img src="/assets/img/Lab_Logo.webp" alt="Lab Logo" style="height: 60px; max-width: 100%;">
     <!-- <img src="/assets/img/nju_logo.jpg" alt="NJU Logo" style="height: 60px; max-width: 100%;"> -->
   </div>
 </div>
