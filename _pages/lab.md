@@ -15,11 +15,11 @@ social: true  # includes social icons at the bottom of the page
 
 
 <!-- Title -->
-<div style="text-align: center; margin: 40px 0;">
+<!-- <div style="text-align: center; margin: 40px 0;">
   <h2 style="margin: 0;"><strong>EMBODICA Lab</strong></h2>
 </div>
 
-<div class="custom-divider"></div>
+<div class="custom-divider"></div> -->
 
 <!-- 第一部分介绍 -->
 
