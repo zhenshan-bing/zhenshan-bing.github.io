@@ -10,14 +10,14 @@ nav_order: 1
 
 <div class="publications">
 
-{% assign counter = 0 %}
+{% assign count = 0 %}
 {%- for y in page.years %}
   <h2 class="year">{{ y }}</h2>
 
   {%- assign entries = site.scholar.bibliography | where: "year", y | sort: "month" | reverse %}
   {% for entry in entries %}
-    {% assign counter = counter | plus: 1 %}
-    {% include bib.html entry=entry count=counter %}
+    {% assign count = count | plus: 1 %}
+    {% include bib.html entry=entry count=count %}
   {% endfor %}
 {%- endfor %}
 
