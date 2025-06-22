@@ -1,4 +1,15 @@
 <div class="pub-entry">
-  <p><strong>[{{ count }}]</strong></p>
-  <pre>{{ entry | jsonify }}</pre>
+  <span class="pub-number">[{{ include.count }}]</span>
+  {% assign e = include.entry %}
+  <span class="pub-author">{{ e.author }}</span>,
+  <span class="pub-title">"{{ e.title }}"</span>,
+  {% if e.journal %}
+    <span class="pub-journal"><em>{{ e.journal }}</em></span>
+  {% elsif e.booktitle %}
+    <span class="pub-booktitle"><em>In {{ e.booktitle }}</em></span>
+  {% endif %}
+  <span class="pub-year">({{ e.year }})</span>.
+  {% if e.url %}
+    <a href="{{ e.url }}" target="_blank">[Link]</a>
+  {% endif %}
 </div>
