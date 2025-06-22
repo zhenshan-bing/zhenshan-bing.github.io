@@ -1,15 +1,24 @@
-<div class="pub-entry">
-  <span class="pub-number">[{{ include.count }}]</span>
-  {% assign e = include.entry %}
-  <span class="pub-author">{{ e.author }}</span>,
-  <span class="pub-title">"{{ e.title }}"</span>,
-  {% if e.journal %}
-    <span class="pub-journal"><em>{{ e.journal }}</em></span>
-  {% elsif e.booktitle %}
-    <span class="pub-booktitle"><em>In {{ e.booktitle }}</em></span>
+<li id="{{ entry.key }}">
+  [{{ include.count }}] 
+  {% if entry.author %}
+    {{ entry.author }},
   {% endif %}
-  <span class="pub-year">({{ e.year }})</span>.
-  {% if e.url %}
-    <a href="{{ e.url }}" target="_blank">[Link]</a>
+  <strong>{{ entry.title }}</strong>.
+  {% if entry.journal %}
+    <em>{{ entry.journal }}</em>,
   {% endif %}
-</div>
+  {% if entry.booktitle %}
+    <em>{{ entry.booktitle }}</em>,
+  {% endif %}
+  {% if entry.year %}
+    {{ entry.year }}.
+  {% endif %}
+
+  <!-- Optional buttons -->
+  {% if entry.abstract %}
+    <a href="{{ entry.url | relative_url }}" target="_blank">[ABS]</a>
+  {% endif %}
+  {% if entry.doi %}
+    <a href="https://doi.org/{{ entry.doi }}" target="_blank">[DOI]</a>
+  {% endif %}
+</li>
