@@ -7,4 +7,10 @@ nav: true
 nav_order: 1
 ---
 
-{% bibliography %}
+<div class="publications">
+  {% assign counter = 0 %}
+  {% for entry in site.scholar.bibliography %}
+    {% assign counter = counter | plus: 1 %}
+    {% include bib.html entry=entry count=counter %}
+  {% endfor %}
+</div>
