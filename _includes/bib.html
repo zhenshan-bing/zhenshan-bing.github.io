@@ -1,3 +1,4 @@
-<div class="pub">
-  <p><strong>[{{ count }}]</strong> {{ entry.key }}</p>
+<div class="pub-entry">
+  <p><strong>[{{ count }}]</strong></p>
+  <pre>{{ entry | jsonify }}</pre>
 </div>
