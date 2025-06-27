@@ -17,6 +17,8 @@ Please send an email to [bing@nju.edu.cn](mailto:bing@nju.edu.cn) with the subje
 **“Application + [Position Type] + [Your Name]”**  
 _(e.g.,_ *Application + PhD + Jane Doe*_)_
 
+**Please send us your CV, grade report, and a slide to introduce yourself.**
+
 I aim to respond to all inquiries within one week. If you do not receive a reply, it may have been overlooked—please feel free to follow up.
 
 <div class="custom-divider"></div>
@@ -30,5 +32,7 @@ I aim to respond to all inquiries within one week. If you do not receive a reply
 
 **“申请 + [职位类型] + [您的姓名]”**
 （例如：申请 + 博士 + 张三）
+
+**在邮件中您可以提供您的简历，成绩单，以及一个简单的PPT介绍一下您的经历。**
 
 我会尽量在一周内回复所有来信。如果您未收到回复，可能是邮件被遗漏，欢迎再次跟进。
