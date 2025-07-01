@@ -58,7 +58,7 @@ social: true  # includes social icons at the bottom of the page
 
   <p style="color: black; font-weight: regular;">
     关于 <strong>2025</strong> 年研究生招生：还有 <strong>25年保研、考研硕士名额若干</strong>；
-    关于 <strong>2026</strong> 年研究生招生：<strong>26年考核制博士生名额2位</strong>。
+    关于 <strong>2026</strong> 年研究生招生：<strong>26年考核制博士生名额若干位，硕士名额若干</strong>。
   </p>
 
   <p style="color: black; font-weight: regular;">
