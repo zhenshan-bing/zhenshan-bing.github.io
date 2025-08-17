@@ -107,5 +107,15 @@ I have authored approximately 100 peer-reviewed publications in esteemed journal
 </section>
 
 
+<section class="professional-service">
+  <h2 style="font-weight: bold;">Talks</h2>
+  <ul>
+    <li>
+      <span class="date">2025.08.11</span> 2025世界机器人大会“具身智能系统：数智经济新范式”专题论坛: 
+      <a href="https://mp.weixin.qq.com/s/2sd0LOnIP2QkPacfkQxJ2w">面向地下空间的特种蛇鼠异构机器人</a>, 
+    </li>
+  </ul>
+</section>
+
 
 <div class="custom-divider"></div>
