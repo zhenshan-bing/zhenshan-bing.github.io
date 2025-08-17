@@ -88,6 +88,10 @@ I have authored approximately 100 peer-reviewed publications in esteemed journal
   <h2 style="font-weight: bold;">Awards</h2>
   <ul>
     <li>
+      <span class="date">2025</span> Best student paper award: 
+      <a href="https://www.caayac.org.cn/yac2025//">The 40th Youth Academic Annual Conference of Chinese Association of Automation</a>, <a href="/assets/pdf/YAC.jpg">PDF</a>
+    </li>
+    <li>
       <span class="date">2024</span> Fellowship: 
       <a href="https://eurotech-universities.eu/funding/eurotech-visiting-researcher-programme/">EuroTech Visiting Researcher Programme</a>, <a href="/assets/pdf/EuroTech_VRP_2024_Bing.PDF">PDF</a>
     </li>
