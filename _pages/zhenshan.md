@@ -89,7 +89,16 @@ I have authored approximately 100 peer-reviewed publications in esteemed journal
   <ul>
     <li>
       <span class="date">2025</span> 2025年度中国智能机器人学术新星奖: 
-      <a href="https://www.caayac.org.cn/yac2025//">中国人工智能学会智能机器人专业委员会，第十八届中国智能机器人大会组委会</a>
+      <a href="https://ccir2025.com.cn/index.html//">中国人工智能学会智能机器人专业委员会，第十八届中国智能机器人大会组委会</a>
+    </li>
+    <li>
+    <li>
+      <span class="date">2025</span> Best student award, Best conference award finalist: 
+      <a href="https://ras.papercept.net/conferences/conferences/CBS25/program///">2025 IEEE International Conference on Cyborg and Bionic Systems</a>
+    </li>
+    <li>
+      <span class="date">2025</span> Best student paper: 
+      <a href="https://www25.swarm-systems.org//">The 9th International Symposium on Swarm Behavior and Bio-Inspired Robotics 2025</a>
     </li>
     <li>
       <span class="date">2025</span> Best student paper award: 
