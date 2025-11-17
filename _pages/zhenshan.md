@@ -105,6 +105,10 @@ I have authored approximately 100 peer-reviewed publications in esteemed journal
       <a href="https://www.caayac.org.cn/yac2025//">The 40th Youth Academic Annual Conference of Chinese Association of Automation</a>, <a href="/assets/pdf/YAC.jpg">PDF</a>
     </li>
     <li>
+      <span class="date">2024</span> 2024 IROS NOKOV New Generation Star: 
+      <a href="https://ieeexplore.ieee.org/xpl/conhome/10801246/proceeding">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</a>
+    </li>
+    <li>
       <span class="date">2024</span> Fellowship: 
       <a href="https://eurotech-universities.eu/funding/eurotech-visiting-researcher-programme/">EuroTech Visiting Researcher Programme</a>, <a href="/assets/pdf/EuroTech_VRP_2024_Bing.PDF">PDF</a>
     </li>
