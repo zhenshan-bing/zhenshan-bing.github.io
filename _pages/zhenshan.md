@@ -89,7 +89,7 @@ I have authored approximately 100 peer-reviewed publications in esteemed journal
   <ul>
     <li>
       <span class="date">2025</span> 2025年度中国智能机器人学术新星奖: 
-      <a href="https://www.caayac.org.cn/yac2025//">中国人工智能学会智能机器人专业委员会</a>
+      <a href="https://www.caayac.org.cn/yac2025//">中国人工智能学会智能机器人专业委员会，第十八届中国智能机器人大会组委会</a>
     </li>
     <li>
       <span class="date">2025</span> Best student paper award: 
