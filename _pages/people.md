@@ -20,6 +20,8 @@ nav_order: 9
   </div>
 </div>
 
+<h2>PhD</h2
+        
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="text-align: center; width: 180px;">
     <img src="/assets/img/ZYK.png" style="width: 100%; border-radius: 12px;" alt="Yinkai Zhu">
