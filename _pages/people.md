@@ -20,7 +20,16 @@ nav_order: 9
   </div>
 </div>
 
-
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="text-align: center; width: 180px;">
+    <img src="/assets/img/ZYK.png" style="width: 100%; border-radius: 12px;" alt="Yinkai Zhu">
+    <p><strong>Yinkai Zhu</strong><br>Ph.D. Student (Class of 2026)</p>
+    <p>
+      <a href="mailto:bqxzyk88@163.com"><i class="fas fa-envelope"></i></a>&nbsp;
+      <!-- <a href="https://twitter.com/guanya"><i class="fab fa-twitter"></i></a> -->
+    </p>
+  </div>
+</div>
 
   <!-- 添加更多学生：复制粘贴上面结构即可 -->
 <!-- </div> -->
