@@ -20,7 +20,7 @@ nav_order: 9
   </div>
 </div>
 
-<h2>PhD</h2
+<h2>PhD</h2>
         
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="text-align: center; width: 180px;">
