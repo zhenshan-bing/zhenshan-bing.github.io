@@ -1,0 +1,38 @@
+name: Build Jekyll site
+
+on:
+  push:
+    branches: [ master ]   # 如果你用的是 main 分支，请改成 main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true
+      
+      # 新增：升级 RubyGems 和 Bundler，避免版本兼容问题
+      - name: Upgrade RubyGems and Bundler
+        run: |
+          gem update --system
+          gem install bundler
+          
+      - name: Install dependencies
+        run: |
+          gem install bundler   # 此行可省略，因为上面已经装过，但保留无妨
+          bundle install
+          
+      - name: Build site
+        run: bundle exec jekyll build
+        
+      - name: Deploy to dist branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          publish_branch: dist
+          force_orphan: true
