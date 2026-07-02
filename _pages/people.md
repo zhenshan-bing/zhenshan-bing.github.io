@@ -50,7 +50,7 @@ nav_order: 9
          alt="Yinkai Zhu">
 
     <p>
-      <strong>Yikai Zhu</strong><br>
+      <strong>Yinkai Zhu</strong><br>
       Joined in 2026
     </p>
   </div>
