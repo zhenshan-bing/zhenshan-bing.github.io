@@ -21,3 +21,4 @@ group :other_plugins do
     gem 'httparty'
     gem 'feedjira'
 end
+gem "sass-embedded", "~> 1.57.1"
