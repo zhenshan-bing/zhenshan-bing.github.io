@@ -7,7 +7,7 @@ hide_title: true
 nav_order: 9
 ---
 
-## 天池 Gallery
+## 第一届具身智能操作任务挑战赛
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; padding: 20px 0;">
   <div style="overflow: hidden; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
