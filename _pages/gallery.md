@@ -7,7 +7,7 @@ hide_title: true
 nav_order: 9
 ---
 
-
+<h2>Gallery</h2>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 24px; padding: 20px 0;">
   
