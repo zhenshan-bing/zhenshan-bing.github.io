@@ -17,7 +17,7 @@ nav_order: 9
       <img src="/assets/img/tianchi5.jpg" alt="天池挑战赛封面" style="width: 100%; height: 200px; object-fit: cover;">
       <div style="padding: 16px 20px; background: white;">
         <h3 style="margin: 0 0 8px 0; font-size: 18px;">🏆 第一届具身智能操作任务挑战赛</h3>
-        <p style="margin: 0; color: #666; font-size: 14px;">2024年 · 天池 · 创业宫胜营</p>
+
         <p style="margin: 8px 0 0 0; color: #999; font-size: 13px;">📷 8 张图片</p>
       </div>
     </div>
