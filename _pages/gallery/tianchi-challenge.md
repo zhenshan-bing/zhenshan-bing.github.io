@@ -1,17 +1,15 @@
 ---
 layout: page
-title: 乐聚机器人第一届具身智能操作任务挑战赛
+title: 🏆 乐聚机器人第一届具身智能操作任务挑战赛
 permalink: /gallery/tianchi-challenge/
 nav: false
 ---
 
 <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 20px;">
   <a href="/gallery/" style="text-decoration: none; color: #0366d6; font-size: 16px;">← 返回 Gallery</a>
-  <span style="color: #999;">/</span>
-  <span style="color: #333; font-weight: 500;">乐聚机器人第一届具身智能操作任务挑战赛</span>
+
 </div>
 
-<h2>🏆 乐聚机器人第一届具身智能操作任务挑战赛</h2>
 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; padding: 20px 0;">
