@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🏆 乐聚机器人第一届具身智能操作任务挑战赛
+title: 乐聚机器人第一届具身智能操作任务挑战赛
 permalink: /gallery/tianchi-challenge/
 nav: false
 ---
