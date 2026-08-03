@@ -12,7 +12,7 @@ nav: false
 </div>
 
 <h2>🏆 第一届具身智能操作任务挑战赛</h2>
-<p style="color: #666; margin-bottom: 24px;">2024年 · 天池 · 创业宫胜营</p>
+
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; padding: 20px 0;">
   <div style="overflow: hidden; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
