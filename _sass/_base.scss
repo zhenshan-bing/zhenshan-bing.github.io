@@ -662,3 +662,40 @@ html.transition *:after {
 .language-switcher .dropdown-item {
   padding: 5px 10px;
 }
+
+/* Automatic publication numbering */
+.publications {
+  counter-reset: pub-number;
+
+  ol.bibliography > li {
+    counter-increment: pub-number;
+  }
+
+  ol.bibliography > li > .row > .col-sm-8 {
+    position: relative;
+
+    &::before {
+      content: "[" counter(pub-number) "]";
+      position: absolute;
+      left: -2.5rem;
+      top: 0;
+      color: #ff4d4f;
+      font-size: 1rem;
+      font-weight: 500;
+      white-space: nowrap;
+    }
+  }
+}
+
+/* Mobile layout */
+@media (max-width: 575px) {
+  .publications {
+    ol.bibliography > li > .row > .col-sm-8 {
+      padding-left: 2.5rem;
+
+      &::before {
+        left: 0.75rem;
+      }
+    }
+  }
+}
