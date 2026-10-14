@@ -664,6 +664,7 @@ html.transition *:after {
 }
 
 
+
 /* Automatic publication numbering */
 .publications {
   counter-reset: pub-number;
@@ -672,14 +673,12 @@ html.transition *:after {
     counter-increment: pub-number;
   }
 
-  /* Number appears before paper title */
   ol.bibliography > li .title::before {
     content: "[" counter(pub-number) "] ";
-    color: #ff4d4f;
-    font-size: 1rem;
-    font-weight: 500;
-    margin-right: 0.5rem;
-    white-space: nowrap;
+    font: inherit;
+    color: inherit;
+    margin-right: 0.3rem;
   }
 }
+
 
