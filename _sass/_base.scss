@@ -665,20 +665,72 @@ html.transition *:after {
 
 
 
-/* Automatic publication numbering */
+
+/* Automatic publication numbering - 3 columns */
 .publications {
   counter-reset: pub-number;
 
   ol.bibliography > li {
     counter-increment: pub-number;
-  }
 
-  ol.bibliography > li .title::before {
-    content: "[" counter(pub-number) "] ";
-    font: inherit;
-    color: inherit;
-    margin-right: 0.3rem;
+    > .row {
+      display: grid;
+      grid-template-columns:
+        minmax(180px, 20%)
+        3.5rem
+        minmax(0, 1fr);
+      align-items: start;
+    }
+
+    /* Column 1: original badge or image */
+    > .row > .col-sm-2 {
+      width: 100%;
+      max-width: none;
+      padding-right: 15px;
+    }
+
+    /* Column 2: aligned number */
+    > .row > .pub-number {
+      text-align: center;
+      font-weight: bolder;
+      font-size: 1rem;
+      color: var(--global-text-color);
+    }
+
+    > .row > .pub-number::before {
+      content: "[" counter(pub-number) "]";
+    }
+
+    /* Column 3: paper information */
+    > .row > .col-sm-8 {
+      width: 100%;
+      max-width: none;
+      min-width: 0;
+      padding-left: 15px;
+    }
   }
 }
+
+/* Mobile screen */
+@media (max-width: 575px) {
+  .publications ol.bibliography > li > .row {
+    grid-template-columns: 2.5rem minmax(0, 1fr);
+  }
+
+  .publications ol.bibliography > li > .row > .col-sm-2 {
+    grid-column: 1 / -1;
+  }
+
+  .publications ol.bibliography > li > .row > .pub-number {
+    grid-column: 1;
+    grid-row: 2;
+  }
+
+  .publications ol.bibliography > li > .row > .col-sm-8 {
+    grid-column: 2;
+    grid-row: 2;
+  }
+}
+
 
 
