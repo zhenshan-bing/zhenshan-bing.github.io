@@ -700,3 +700,18 @@ html.transition *:after {
     left: 0;
   }
 }
+
+/* Fix long publication badge overlapping numbers */
+@media (min-width: 576px) {
+  .publications ol.bibliography > li .abbr abbr.badge {
+    box-sizing: border-box;
+    max-width: 100%;
+    padding-left: 0.35rem;
+    padding-right: 0.35rem;
+    font-size: 0.7rem;
+    white-space: normal;
+    overflow-wrap: anywhere;
+    text-align: center;
+    vertical-align: top;
+  }
+}
