@@ -663,7 +663,7 @@ html.transition *:after {
   padding: 5px 10px;
 }
 
-/* Automatic publication numbering */
+/* Automatic publication numbering - stable version */
 .publications {
   counter-reset: pub-number;
 
@@ -671,31 +671,32 @@ html.transition *:after {
     counter-increment: pub-number;
   }
 
-  ol.bibliography > li > .row > .col-sm-8 {
+  /* 让右侧正文列作为编号定位基准 */
+  ol.bibliography > li .row > .col-sm-8 {
     position: relative;
+    padding-left: 3rem;
+  }
 
-    &::before {
-      content: "[" counter(pub-number) "]";
-      position: absolute;
-      left: -2.5rem;
-      top: 0;
-      color: #ff4d4f;
-      font-size: 1rem;
-      font-weight: 500;
-      white-space: nowrap;
-    }
+  /* 在正文列左侧显示编号 */
+  ol.bibliography > li .row > .col-sm-8::before {
+    content: "[" counter(pub-number) "]";
+    position: absolute;
+    left: 0;
+    top: 0.1rem;
+    color: #ff4d4f;
+    font-size: 1rem;
+    font-weight: 500;
+    white-space: nowrap;
   }
 }
 
-/* Mobile layout */
+/* 手机端微调 */
 @media (max-width: 575px) {
-  .publications {
-    ol.bibliography > li > .row > .col-sm-8 {
-      padding-left: 2.5rem;
+  .publications ol.bibliography > li .row > .col-sm-8 {
+    padding-left: 2.5rem;
+  }
 
-      &::before {
-        left: 0.75rem;
-      }
-    }
+  .publications ol.bibliography > li .row > .col-sm-8::before {
+    left: 0;
   }
 }
