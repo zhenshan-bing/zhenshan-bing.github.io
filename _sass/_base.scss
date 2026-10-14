@@ -663,7 +663,8 @@ html.transition *:after {
   padding: 5px 10px;
 }
 
-/* Automatic publication numbering - stable version */
+
+/* Automatic publication numbering */
 .publications {
   counter-reset: pub-number;
 
@@ -671,47 +672,14 @@ html.transition *:after {
     counter-increment: pub-number;
   }
 
-  /* 让右侧正文列作为编号定位基准 */
-  ol.bibliography > li .row > .col-sm-8 {
-    position: relative;
-    padding-left: 3rem;
-  }
-
-  /* 在正文列左侧显示编号 */
-  ol.bibliography > li .row > .col-sm-8::before {
-    content: "[" counter(pub-number) "]";
-    position: absolute;
-    left: 0;
-    top: 0.1rem;
+  /* Number appears before paper title */
+  ol.bibliography > li .title::before {
+    content: "[" counter(pub-number) "] ";
     color: #ff4d4f;
     font-size: 1rem;
     font-weight: 500;
+    margin-right: 0.5rem;
     white-space: nowrap;
   }
 }
 
-/* 手机端微调 */
-@media (max-width: 575px) {
-  .publications ol.bibliography > li .row > .col-sm-8 {
-    padding-left: 2.5rem;
-  }
-
-  .publications ol.bibliography > li .row > .col-sm-8::before {
-    left: 0;
-  }
-}
-
-/* Fix long publication badge overlapping numbers */
-@media (min-width: 576px) {
-  .publications ol.bibliography > li .abbr abbr.badge {
-    box-sizing: border-box;
-    max-width: 100%;
-    padding-left: 0.35rem;
-    padding-right: 0.35rem;
-    font-size: 0.7rem;
-    white-space: normal;
-    overflow-wrap: anywhere;
-    text-align: center;
-    vertical-align: top;
-  }
-}
