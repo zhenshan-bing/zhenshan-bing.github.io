@@ -22,8 +22,10 @@
           {%- endif -%}
         {%- endif -%}
         </div>
+        {% comment %}
         <!-- Automatic publication number column -->
         <div class="pub-number"></div>
+        {% endcomment %}
         <!-- Entry bib key -->
         <div id="{{entry.key}}" class="col-sm-8">
         {% if entry.type == "thesis" -%}
